@@ -64,14 +64,15 @@ export default function IntroScreen() {
       {/* Get started button */}
       <button
         onClick={dismiss}
-        className="mt-6 font-body font-medium text-sm px-10 py-3 rounded-full tracking-wide cursor-pointer transition-all duration-300"
+        className="mt-6 font-body font-medium text-sm px-10 py-2 rounded-full tracking-wide cursor-pointer transition-all duration-200"
         style={{
-          background: 'radial-gradient(ellipse at 30% 40%, rgba(209,230,100,0.85) 0%, rgba(148,170,58,0.5) 35%, rgba(90,115,20,0.6) 65%, rgba(191,211,110,0.7) 100%)',
-          backgroundSize: '300% 300%',
-          animation: 'liquid-shift 4s ease-in-out infinite',
-          color: '#4a5a1a',
-          border: 'none',
-          backdropFilter: 'blur(4px)',
+          background: 'linear-gradient(135deg, rgba(191,211,110,0.45) 0%, rgba(148,170,58,0.3) 50%, rgba(118,136,45,0.4) 100%)',
+          color: '#3d5010',
+          backdropFilter: 'blur(8px)',
+          WebkitBackdropFilter: 'blur(8px)',
+          border: '1px solid rgba(191,211,110,0.5)',
+          boxShadow: 'inset 0 1px 0 rgba(255,255,255,0.3), inset 0 -1px 0 rgba(0,0,0,0.05)',
+          animation: 'glow-pulse 2s ease-in-out infinite',
         }}
       >
         get started
