@@ -39,7 +39,7 @@ export default function IntroScreen() {
         </span>
 
         <Image
-          src="/logo-oli.png"
+          src="/olive-pick.png"
           alt="olive on a pick"
           width={300}
           height={400}

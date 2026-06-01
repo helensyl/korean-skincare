@@ -4,7 +4,7 @@ export default function OlivePickLogo({ className = '' }: { className?: string }
   return (
     <div className={`flex items-center gap-2 ${className}`}>
       <Image
-        src="/logo-oli.png"
+        src="/olive-pick.png"
         alt="olive on a pick"
         width={40}
         height={40}
