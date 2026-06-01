@@ -1,0 +1,51 @@
+@import "tailwindcss";
+
+@theme {
+  /* Olive Pick brand green */
+  --color-olive-50:  #f5f8e9;
+  --color-olive-100: #e8f0cc;
+  --color-olive-200: #d4e39e;
+  --color-olive-300: #bfd36e;
+  --color-olive-400: #b2c952;
+  --color-olive-500: #94aa3a;
+  --color-olive-600: #76882d;
+  --color-olive-700: #596621;
+  --color-olive-800: #3d4617;
+  --color-olive-900: #21260c;
+
+  /* Warm cream palette */
+  --color-cream-50:  #fdfaf7;
+  --color-cream-100: #f7f0e8;
+  --color-cream-200: #ede3d6;
+  --color-cream-300: #dfd2c0;
+  --color-cream-400: #c9b89f;
+
+  /* Font families */
+  --font-body:    var(--font-body);
+  --font-display: var(--font-display);
+  --font-title:   var(--font-title);
+}
+
+:root {
+  --background: #ffffff;
+  --foreground: #1c1814;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-body), system-ui, sans-serif;
+}
+
+@keyframes glow-pulse {
+  0%, 100% { box-shadow: 0 0 0 0 rgba(148, 170, 58, 0.5); }
+  50%       { box-shadow: 0 0 16px 6px rgba(148, 170, 58, 0.35); }
+}
+
+@keyframes liquid-shift {
+  0%   { background-position: 0% 30%; }
+  25%  { background-position: 60% 70%; }
+  50%  { background-position: 100% 20%; }
+  75%  { background-position: 40% 90%; }
+  100% { background-position: 0% 30%; }
+}

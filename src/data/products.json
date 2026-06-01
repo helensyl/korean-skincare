@@ -1,0 +1,5169 @@
+[
+  {
+    "id": "GA250329702",
+    "brand": "Anua",
+    "name": "Anua Rice 70 Glow Milky Toner 250ml",
+    "category": "Toner",
+    "parent_category": "Moisturizers",
+    "price_usd": 28.2,
+    "original_price_usd": 28.2,
+    "rating": 4.8,
+    "review_count": 432,
+    "image_path": "prdtImg/1259/a495e29c-dc03-4552-9d79-dc0e4641f901.png",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [
+      "Ceramide",
+      "Oryza Sativa (Rice) Extract",
+      "Ascorbic Acid (Vitamin C)",
+      "Allantoin",
+      "Arbutin"
+    ],
+    "formulation": [
+      "Toners"
+    ],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250329702"
+  },
+  {
+    "id": "GA250631811",
+    "brand": "numbuzin",
+    "name": "numbuzin No. 9 NAD PDRN Glow Treatment Toner 150ml",
+    "category": "Toner",
+    "parent_category": "Moisturizers",
+    "price_usd": 17.6,
+    "original_price_usd": 22.0,
+    "rating": 4.8,
+    "review_count": 666,
+    "image_path": "prdtImg/1874/d20d2042-042b-4fbd-906a-92ea2414924d.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [
+      "Glyceryl Glucoside",
+      "Niacinamide",
+      "Propanediol"
+    ],
+    "formulation": [
+      "Fluid"
+    ],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250631811"
+  },
+  {
+    "id": "GA240523666",
+    "brand": "Beauty of Joseon",
+    "name": "Beauty of Joseon Glow Replenishing Rice Milk 150ml",
+    "category": "Toner",
+    "parent_category": "Moisturizers",
+    "price_usd": 14.4,
+    "original_price_usd": 18.0,
+    "rating": 4.8,
+    "review_count": 583,
+    "image_path": "prdtImg/1495/be22b3e2-bb9d-4c14-bad5-03c7fff5e10c.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [
+      "Oryza Sativa (Rice) Extract",
+      "Panthenol"
+    ],
+    "formulation": [
+      "Toners"
+    ],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA240523666"
+  },
+  {
+    "id": "GA241227059",
+    "brand": "REJURAN",
+    "name": "REJURAN Derma Healer Moisture Treatment Toner 150ml",
+    "category": "Toner",
+    "parent_category": "Moisturizers",
+    "price_usd": 21.6,
+    "original_price_usd": 24.0,
+    "rating": 4.9,
+    "review_count": 83,
+    "image_path": "prdtImg/1955/675c4910-c75a-49b8-b5a3-d162403625fe.jpg",
+    "skin_type": [
+      "Dry",
+      "Sensitive"
+    ],
+    "key_ingredients": [
+      "Ceramide",
+      "Aloe Extract",
+      "Panthenol"
+    ],
+    "formulation": [
+      "Toners"
+    ],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA241227059"
+  },
+  {
+    "id": "GA231221288",
+    "brand": "Isntree",
+    "name": "Isntree Ultra-Low Molecular Hyaluronic Acid Toner 300mL",
+    "category": "Toner",
+    "parent_category": "Moisturizers",
+    "price_usd": 15.42,
+    "original_price_usd": 23.3,
+    "rating": 4.8,
+    "review_count": 1083,
+    "image_path": "prdtImg/1579/3111064c-e143-442b-a8dd-1ae07ef1f4e5.jpg",
+    "skin_type": [
+      "Combination&Normal",
+      "Oily"
+    ],
+    "key_ingredients": [
+      "Hamamelis Virginiana (Witch Hazel) Extract",
+      "hamaecyparis Obtusa Leaf Extract",
+      "Sea Water",
+      "Hyaluronic acid"
+    ],
+    "formulation": [
+      "Toners"
+    ],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA231221288"
+  },
+  {
+    "id": "GA250329643",
+    "brand": "The Ordinary",
+    "name": "The Ordinary Glycolic Acid 7% Exfoliating Toner 100ml",
+    "category": "Toner",
+    "parent_category": "Moisturizers",
+    "price_usd": 13.0,
+    "original_price_usd": 13.0,
+    "rating": 4.6,
+    "review_count": 99,
+    "image_path": "prdtImg/1967/95de6e21-199f-43d6-9dcb-64fee40a4c7b.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [
+      "AHA",
+      "Glycolic Acid"
+    ],
+    "formulation": [
+      "Toners"
+    ],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250329643"
+  },
+  {
+    "id": "GA221116705",
+    "brand": "Haruharu wonder",
+    "name": "Haruharu wonder Black Rice Hyaluronic Toner 300ml",
+    "category": "Toner",
+    "parent_category": "Moisturizers",
+    "price_usd": 27.2,
+    "original_price_usd": 32.0,
+    "rating": 4.7,
+    "review_count": 181,
+    "image_path": "prdtImg/1359/265c903f-d147-4cb0-b607-8c151510a869.jpg",
+    "skin_type": [],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA221116705"
+  },
+  {
+    "id": "GA221217067",
+    "brand": "Beauty of Joseon",
+    "name": "beauty of joseon Red Bean Water Gel 100mL",
+    "category": "Toner",
+    "parent_category": "Moisturizers",
+    "price_usd": 18.0,
+    "original_price_usd": 18.0,
+    "rating": 4.7,
+    "review_count": 445,
+    "image_path": "prdtImg/1845/d6c3c6fa-24fc-4fa0-949c-2c7b9034fc33.jpg",
+    "skin_type": [
+      "Oily"
+    ],
+    "key_ingredients": [
+      "Peptide"
+    ],
+    "formulation": [
+      "Cream",
+      "Gel"
+    ],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA221217067"
+  },
+  {
+    "id": "GA260439240",
+    "brand": "Anua",
+    "name": "Anua Heartleaf 77 Hyaluron Soothing Toner 350ml",
+    "category": "Toner",
+    "parent_category": "Moisturizers",
+    "price_usd": 26.91,
+    "original_price_usd": 36.0,
+    "rating": 0.0,
+    "review_count": 0,
+    "image_path": "prdtImg/1421/3963367c-a6a1-4e57-b477-eb6fd3f1bc0e.png",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [
+      "Panthenol",
+      "Hyaluronic acid"
+    ],
+    "formulation": [
+      "Toners"
+    ],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA260439240"
+  },
+  {
+    "id": "GA260338954",
+    "brand": "medicube",
+    "name": "medicube Kojic Acid Turmeric Resurfacing Toner 250ml",
+    "category": "Toner",
+    "parent_category": "Moisturizers",
+    "price_usd": 28.5,
+    "original_price_usd": 30.0,
+    "rating": 0.0,
+    "review_count": 0,
+    "image_path": "prdtImg/1765/a22a400c-051b-46f2-9837-60e42ca3d75e.jpg",
+    "skin_type": [],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA260338954"
+  },
+  {
+    "id": "GA240624389",
+    "brand": "Purito Seoul",
+    "name": "Purito Seoul Wonder Releaf Centella Toner Unscented 200ml",
+    "category": "Toner",
+    "parent_category": "Moisturizers",
+    "price_usd": 16.8,
+    "original_price_usd": 24.0,
+    "rating": 4.9,
+    "review_count": 181,
+    "image_path": "prdtImg/1853/77943195-f188-486b-80c5-cacc126f3fab.jpg",
+    "skin_type": [],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA240624389"
+  },
+  {
+    "id": "GA250329699",
+    "brand": "celimax",
+    "name": "celimax Dual Barrier Creamy Toner 150ml",
+    "category": "Toner",
+    "parent_category": "Moisturizers",
+    "price_usd": 22.1,
+    "original_price_usd": 26.0,
+    "rating": 4.8,
+    "review_count": 94,
+    "image_path": "prdtImg/1873/6ee9f01a-63d1-4aa1-a518-049d4185556d.jpg",
+    "skin_type": [],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250329699"
+  },
+  {
+    "id": "GA231020721",
+    "brand": "COSRX",
+    "name": "COSRX BHA Blackhead Power Liquid 100mL",
+    "category": "Toner",
+    "parent_category": "Moisturizers",
+    "price_usd": 20.0,
+    "original_price_usd": 25.0,
+    "rating": 4.6,
+    "review_count": 186,
+    "image_path": "prdtImg/1295/1a96777b-b734-4fac-baef-8ab7b6f82c48.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [
+      "BHA",
+      "Niacinamide",
+      "Panthenol",
+      "Salix Alba (Willow) Bark Water"
+    ],
+    "formulation": [
+      "Toners"
+    ],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA231020721"
+  },
+  {
+    "id": "GA260237345",
+    "brand": "Esthederm",
+    "name": "Esthederm Calming Rehydrating Lotion Max 400ml",
+    "category": "Toner",
+    "parent_category": "Moisturizers",
+    "price_usd": 39.9,
+    "original_price_usd": 57.0,
+    "rating": 0.0,
+    "review_count": 0,
+    "image_path": "prdtImg/1942/e504d342-b516-4e00-845e-60c1355a2df2.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [
+      "Carnosine"
+    ],
+    "formulation": [
+      "Toners"
+    ],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA260237345"
+  },
+  {
+    "id": "GA241026327",
+    "brand": "medicube",
+    "name": "medicube PDRN Pink Cica Soothing Toner 250ml",
+    "category": "Toner",
+    "parent_category": "Moisturizers",
+    "price_usd": 19.81,
+    "original_price_usd": 35.0,
+    "rating": 4.7,
+    "review_count": 96,
+    "image_path": "prdtImg/1540/d3aa0a1c-dfbf-45ca-a3a7-7fd7c43cc626.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [
+      "Niacinamide",
+      "Centella Asiatica Extract (Cica Care)",
+      "Peptide"
+    ],
+    "formulation": [
+      "Toners"
+    ],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA241026327"
+  },
+  {
+    "id": "GA220113375",
+    "brand": "SKIN1004",
+    "name": "SKIN1004 Madagascar Centella Toning Toner 210mL",
+    "category": "Toner",
+    "parent_category": "Moisturizers",
+    "price_usd": 19.0,
+    "original_price_usd": 19.0,
+    "rating": 4.8,
+    "review_count": 785,
+    "image_path": "prdtImg/1127/f1fc04f0-25eb-47df-96f2-eeed0c63feb1.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [
+      "PHA",
+      "Niacinamide",
+      "Centella Asiatica Extract (Cica Care)"
+    ],
+    "formulation": [
+      "Toners"
+    ],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA220113375"
+  },
+  {
+    "id": "GA240925959",
+    "brand": "dear, klairs",
+    "name": "dear, klairs Supple Preparation Unscented Toner 180ml",
+    "category": "Toner",
+    "parent_category": "Moisturizers",
+    "price_usd": 18.37,
+    "original_price_usd": 23.0,
+    "rating": 4.9,
+    "review_count": 27,
+    "image_path": "prdtImg/1817/52bf53fe-f488-44b5-afad-f56d5e01da59.png",
+    "skin_type": [
+      "Combination&Normal",
+      "Sensitive"
+    ],
+    "key_ingredients": [
+      "Centella Asiatica Extract (Cica Care)",
+      "Portulaca Oleracea Extract",
+      "Panthenol"
+    ],
+    "formulation": [
+      "Toners"
+    ],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA240925959"
+  },
+  {
+    "id": "GA210002626",
+    "brand": "ROUND LAB",
+    "name": "ROUND LAB 1025 Dokdo Toner Jumbo Size 500ml (Free Gift: Toner 100ml)",
+    "category": "Toner",
+    "parent_category": "Moisturizers",
+    "price_usd": 36.0,
+    "original_price_usd": 36.0,
+    "rating": 4.9,
+    "review_count": 868,
+    "image_path": "prdtImg/1446/a922247d-fd5c-4693-bd9a-5d2f436933fb.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [
+      "Betaine",
+      "Allantoin",
+      "Panthenol",
+      "Sea Water"
+    ],
+    "formulation": [
+      "Toners"
+    ],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA210002626"
+  },
+  {
+    "id": "GA250530582",
+    "brand": "BRINGGREEN",
+    "name": "BRINGGREEN Zinc Teca Trouble Serum 50mL+25mL Refill (+Spot Gel 10ml)",
+    "category": "Moisturizer (Lotion)",
+    "parent_category": "Moisturizers",
+    "price_usd": 34.52,
+    "original_price_usd": 65.0,
+    "rating": 4.8,
+    "review_count": 219,
+    "image_path": "prdtImg/1994/08744506-6b58-4a1a-b35c-7b26be3d240f.png",
+    "skin_type": [],
+    "key_ingredients": [
+      "Niacinamide",
+      "Centella Asiatica Extract (Cica Care)",
+      "Zinc PCA"
+    ],
+    "formulation": [
+      "Ampoules",
+      "Fluid"
+    ],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250530582"
+  },
+  {
+    "id": "GA260237713",
+    "brand": "Anua",
+    "name": "Anua Pad 4 Types (Heartleaf / PDRN / Catechin / TXA)",
+    "category": "Moisturizer (Lotion)",
+    "parent_category": "Moisturizers",
+    "price_usd": 21.58,
+    "original_price_usd": 28.0,
+    "rating": 4.7,
+    "review_count": 6,
+    "image_path": "prdtImg/1200/cc2beaf9-eef8-4eea-bb7d-5ecd359bbb42.png",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [
+      "PHA",
+      "Niacinamide",
+      "Camellia Sinensis Leaf Extract",
+      "Madecassoside",
+      "Adenosine",
+      "Ascorbic Acid (Vitamin C)",
+      "Houttuynia Cordata Extract",
+      "Caffeine",
+      "Collagen",
+      "Peptide",
+      "Hyaluronic acid"
+    ],
+    "formulation": [
+      "Toners"
+    ],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA260237713"
+  },
+  {
+    "id": "GA240121572",
+    "brand": "AESTURA",
+    "name": "AESTURA Atobarrier 365 Lotion 150mL",
+    "category": "Moisturizer (Lotion)",
+    "parent_category": "Moisturizers",
+    "price_usd": 32.92,
+    "original_price_usd": 44.0,
+    "rating": 4.7,
+    "review_count": 121,
+    "image_path": "prdtImg/1444/3ee756d5-7ea3-4a28-9197-9f5f5f716502.jpg",
+    "skin_type": [
+      "Combination&Normal",
+      "Sensitive"
+    ],
+    "key_ingredients": [
+      "Ceramide"
+    ],
+    "formulation": [
+      "Cream",
+      "Fluid"
+    ],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA240121572"
+  },
+  {
+    "id": "GA210003521",
+    "brand": "LANEIGE",
+    "name": "LANEIGE HOMME Blue Energy Essence In Lotion EX 125ml",
+    "category": "Moisturizer (Lotion)",
+    "parent_category": "Moisturizers",
+    "price_usd": 25.9,
+    "original_price_usd": 37.0,
+    "rating": 4.9,
+    "review_count": 11,
+    "image_path": "mig/prdtImg/0661bf4802f683599a4c1c99a6dfe6dd.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [
+      "Glycerin",
+      "Adenosine",
+      "Sea Water"
+    ],
+    "formulation": [
+      "Fluid"
+    ],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA210003521"
+  },
+  {
+    "id": "GA250329445",
+    "brand": "REJURAN",
+    "name": "REJURAN Recover Healer Boosting Gel 200ml",
+    "category": "Moisturizer (Lotion)",
+    "parent_category": "Moisturizers",
+    "price_usd": 48.53,
+    "original_price_usd": 52.0,
+    "rating": 4.9,
+    "review_count": 9,
+    "image_path": "prdtImg/1738/2e5d8564-193b-4a84-ae29-62aff3387c2d.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [
+      "Glyceryl Glucoside",
+      "Niacinamide",
+      "Adenosine"
+    ],
+    "formulation": [
+      "Gel"
+    ],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250329445"
+  },
+  {
+    "id": "GA260136956",
+    "brand": "The Ordinary",
+    "name": "The Ordinary Rice Liquids + Ectoin Microemulsion 120ml",
+    "category": "Moisturizer (Lotion)",
+    "parent_category": "Moisturizers",
+    "price_usd": 40.0,
+    "original_price_usd": 40.0,
+    "rating": 4.8,
+    "review_count": 4,
+    "image_path": "prdtImg/1956/261c1360-2239-4a7e-be48-4cbc9140b1bb.png",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [
+      "N.M.F",
+      "Ectoin",
+      "Simmondsia Chinensis (Jojoba) Seed Oil"
+    ],
+    "formulation": [
+      "Fluid"
+    ],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA260136956"
+  },
+  {
+    "id": "GA210000523",
+    "brand": "COSRX",
+    "name": "COSRX Oil Free Ultra Moisturizing Lotion 100 mL",
+    "category": "Moisturizer (Lotion)",
+    "parent_category": "Moisturizers",
+    "price_usd": 20.0,
+    "original_price_usd": 25.0,
+    "rating": 4.8,
+    "review_count": 272,
+    "image_path": "prdtImg/1064/466a8da3-48ad-442f-80c5-fb814de7ca47.jpg",
+    "skin_type": [
+      "Sensitive"
+    ],
+    "key_ingredients": [
+      "Betula Platyphylla Japonica Juice"
+    ],
+    "formulation": [
+      "Cream"
+    ],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA210000523"
+  },
+  {
+    "id": "GA260137015",
+    "brand": "Dr.Jart+",
+    "name": "Dr.Jart+ Ceramidin Skin Barrier Moisturizing Milky Lotion 50ml",
+    "category": "Moisturizer (Lotion)",
+    "parent_category": "Moisturizers",
+    "price_usd": 31.8,
+    "original_price_usd": 57.0,
+    "rating": 0.0,
+    "review_count": 0,
+    "image_path": "prdtImg/1946/f17d1978-68a0-48d2-a3dd-d98bbd099c67.jpg",
+    "skin_type": [
+      "Combination&Normal",
+      "Dry"
+    ],
+    "key_ingredients": [
+      "Ceramide",
+      "Panthenol"
+    ],
+    "formulation": [
+      "Cream"
+    ],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA260137015"
+  },
+  {
+    "id": "GA250530679",
+    "brand": "INNISFREE",
+    "name": "INNISFREE Green Tea Lotion For Men 150ml",
+    "category": "Moisturizer (Lotion)",
+    "parent_category": "Moisturizers",
+    "price_usd": 18.2,
+    "original_price_usd": 26.0,
+    "rating": 4.8,
+    "review_count": 9,
+    "image_path": "prdtImg/1052/4dd53d02-3d9c-4291-8438-ac37382afb90.jpg",
+    "skin_type": [
+      "Combination&Normal",
+      "Oily"
+    ],
+    "key_ingredients": [
+      "Camellia Sinensis Leaf Extract"
+    ],
+    "formulation": [
+      "Fluid",
+      "Gel"
+    ],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250530679"
+  },
+  {
+    "id": "GA260338532",
+    "brand": "cepoLAB",
+    "name": "cepoLAB Biogenic Moisturizer 80ml",
+    "category": "Moisturizer (Lotion)",
+    "parent_category": "Moisturizers",
+    "price_usd": 38.7,
+    "original_price_usd": 43.0,
+    "rating": 0.0,
+    "review_count": 0,
+    "image_path": "prdtImg/1069/ab2fbe88-3320-4381-a61e-f9775c40bd47.png",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [
+      "Squalene"
+    ],
+    "formulation": [
+      "Cream"
+    ],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA260338532"
+  },
+  {
+    "id": "GA260338368",
+    "brand": "B.READY",
+    "name": "B.READY Oil Capture All-In-One Lotion 150ml (Single/Set)",
+    "category": "Moisturizer (Lotion)",
+    "parent_category": "Moisturizers",
+    "price_usd": 23.24,
+    "original_price_usd": 27.0,
+    "rating": 5.0,
+    "review_count": 1,
+    "image_path": "prdtImg/1253/3e635ed7-17ad-4e8f-a053-e0017d4e655a.jpg",
+    "skin_type": [
+      "Oily"
+    ],
+    "key_ingredients": [
+      "Niacinamide",
+      "Centella Asiatica Extract (Cica Care)",
+      "Hyaluronic acid"
+    ],
+    "formulation": [
+      "Fluid"
+    ],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA260338368"
+  },
+  {
+    "id": "GA260237923",
+    "brand": "Anua",
+    "name": "Anua Heartleaf 77 Hyaluron Soothing Lotion 200ml",
+    "category": "Moisturizer (Lotion)",
+    "parent_category": "Moisturizers",
+    "price_usd": 25.8,
+    "original_price_usd": 33.0,
+    "rating": 0.0,
+    "review_count": 0,
+    "image_path": "prdtImg/1313/cbc30e62-260c-4a21-9a91-5229f2f82b29.png",
+    "skin_type": [],
+    "key_ingredients": [
+      "Houttuynia Cordata Extract",
+      "Panthenol",
+      "Hyaluronic acid"
+    ],
+    "formulation": [
+      "Fluid"
+    ],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA260237923"
+  },
+  {
+    "id": "GA260137216",
+    "brand": "KSECRET",
+    "name": "KSECRET Seoul 1988 Collagen Multi Balm 10.7g",
+    "category": "Moisturizer (Lotion)",
+    "parent_category": "Moisturizers",
+    "price_usd": 17.5,
+    "original_price_usd": 25.0,
+    "rating": 5.0,
+    "review_count": 4,
+    "image_path": "prdtImg/1834/e6819176-895e-42d6-91e5-8dfb62ca702a.png",
+    "skin_type": [],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA260137216"
+  },
+  {
+    "id": "GA260137014",
+    "brand": "Dr.Jart+",
+    "name": "Dr.Jart+ Pore Remedy Smoothing Primer 30ml",
+    "category": "Moisturizer (Lotion)",
+    "parent_category": "Moisturizers",
+    "price_usd": 20.51,
+    "original_price_usd": 47.0,
+    "rating": 0.0,
+    "review_count": 0,
+    "image_path": "prdtImg/1949/b379b9e8-08cb-4471-bac9-2a48321f951b.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [
+      "PHA"
+    ],
+    "formulation": [
+      "Fluid"
+    ],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA260137014"
+  },
+  {
+    "id": "GA260136958",
+    "brand": "The Ordinary",
+    "name": "The Ordinary Rice Liquids + Ectoin Microemulsion 60ml",
+    "category": "Moisturizer (Lotion)",
+    "parent_category": "Moisturizers",
+    "price_usd": 23.0,
+    "original_price_usd": 23.0,
+    "rating": 0.0,
+    "review_count": 0,
+    "image_path": "prdtImg/1725/6b22af7b-3544-4dbb-8ffc-0b142cf9c5b8.png",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [
+      "N.M.F",
+      "Ectoin",
+      "Simmondsia Chinensis (Jojoba) Seed Oil"
+    ],
+    "formulation": [
+      "Fluid"
+    ],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA260136958"
+  },
+  {
+    "id": "GA251236138",
+    "brand": "belif",
+    "name": "belif Problem Solution Vegan Moisturizer 100ml",
+    "category": "Moisturizer (Lotion)",
+    "parent_category": "Moisturizers",
+    "price_usd": 43.2,
+    "original_price_usd": 54.0,
+    "rating": 0.0,
+    "review_count": 0,
+    "image_path": "prdtImg/1538/672be45c-b431-414c-9734-5b82ce6af328.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [
+      "Totarol"
+    ],
+    "formulation": [
+      "Fluid"
+    ],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA251236138"
+  },
+  {
+    "id": "GA260136458",
+    "brand": "idplacosmetic",
+    "name": "idplacosmetic EXO-V Booster Ampoule 30ml",
+    "category": "Essence & Serum",
+    "parent_category": "Moisturizers",
+    "price_usd": 22.05,
+    "original_price_usd": 28.0,
+    "rating": 5.0,
+    "review_count": 168,
+    "image_path": "prdtImg/1985/2372f48c-76e4-4482-9025-93ef8258e172.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [
+      "N.M.F",
+      "Crithmum Maritimum Callus Culture Filtrate",
+      "Adenosine",
+      "Peptide"
+    ],
+    "formulation": [
+      "Toners"
+    ],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA260136458"
+  },
+  {
+    "id": "GA250127641",
+    "brand": "numbuzin",
+    "name": "numbuzin No. 9 NAD Bio Lifting-sil Essence 50ml",
+    "category": "Essence & Serum",
+    "parent_category": "Moisturizers",
+    "price_usd": 26.4,
+    "original_price_usd": 33.0,
+    "rating": 4.9,
+    "review_count": 1844,
+    "image_path": "prdtImg/1925/d80ef7a0-8220-488d-9a12-bd5decc5ce2b.jpg",
+    "skin_type": [],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250127641"
+  },
+  {
+    "id": "GA250127656",
+    "brand": "PURCELL",
+    "name": "PURCELL 88B/mL L-Glutathione Flexible Liposome 20ml (+7ml)",
+    "category": "Essence & Serum",
+    "parent_category": "Moisturizers",
+    "price_usd": 32.0,
+    "original_price_usd": 32.0,
+    "rating": 4.8,
+    "review_count": 123,
+    "image_path": "prdtImg/1851/7fa240bc-c2f5-456b-8468-9df08b7cd118.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [
+      "Glutathione (Vitamin G)"
+    ],
+    "formulation": [
+      "Toners"
+    ],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250127656"
+  },
+  {
+    "id": "GA250530674",
+    "brand": "Anua",
+    "name": "Anua Niacinamide 10 TXA 4 Dark Spot Correcting Serum 30ml*2ea",
+    "category": "Essence & Serum",
+    "parent_category": "Moisturizers",
+    "price_usd": 74.0,
+    "original_price_usd": 74.0,
+    "rating": 4.7,
+    "review_count": 1290,
+    "image_path": "prdtImg/1151/31431d98-1a3b-466e-8faa-62aea0c5109e.png",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [
+      "Niacinamide",
+      "Cyanocobalamin (Vitamin B12)",
+      "Ceramide",
+      "Arbutin",
+      "Panthenol",
+      "Hyaluronic acid"
+    ],
+    "formulation": [
+      "Fluid"
+    ],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250530674"
+  },
+  {
+    "id": "GA250127893",
+    "brand": "SKIN1004",
+    "name": "SKIN1004 Madagascar Centella Ampoule 100ml",
+    "category": "Essence & Serum",
+    "parent_category": "Moisturizers",
+    "price_usd": 18.7,
+    "original_price_usd": 22.0,
+    "rating": 4.8,
+    "review_count": 1891,
+    "image_path": "prdtImg/1234/8a16c20e-523a-4811-b53d-93d659c96c6f.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [
+      "Centella Asiatica Extract (Cica Care)"
+    ],
+    "formulation": [
+      "Toners"
+    ],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250127893"
+  },
+  {
+    "id": "GA250229056",
+    "brand": "Dr. Althea",
+    "name": "Dr. Althea Vitamin C Boosting Serum 30ml",
+    "category": "Essence & Serum",
+    "parent_category": "Moisturizers",
+    "price_usd": 20.27,
+    "original_price_usd": 24.0,
+    "rating": 4.7,
+    "review_count": 616,
+    "image_path": "prdtImg/1206/9d3f6227-b97b-4ce9-869f-2e12592294e0.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [
+      "Niacinamide",
+      "Hippophae Rhamnoides Water",
+      "Hyaluronic acid"
+    ],
+    "formulation": [
+      "Fluid"
+    ],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250229056"
+  },
+  {
+    "id": "GA240523483",
+    "brand": "iUNIK",
+    "name": "iUNIK Beta-Glucan Power Moisture Serum 50ml",
+    "category": "Essence & Serum",
+    "parent_category": "Moisturizers",
+    "price_usd": 16.8,
+    "original_price_usd": 21.0,
+    "rating": 4.8,
+    "review_count": 328,
+    "image_path": "prdtImg/1180/79a5707e-8f1e-49c2-8f72-b67feb59e883.jpg",
+    "skin_type": [],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA240523483"
+  },
+  {
+    "id": "GA241026432",
+    "brand": "PURCELL",
+    "name": "PURCELL 88B/mL L-Glutathione Flexible Liposome 20ml",
+    "category": "Essence & Serum",
+    "parent_category": "Moisturizers",
+    "price_usd": 32.0,
+    "original_price_usd": 32.0,
+    "rating": 4.8,
+    "review_count": 57,
+    "image_path": "prdtImg/1470/9484a350-0890-4ba2-8cad-3465ba86b036.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [
+      "Glutathione (Vitamin G)",
+      "Niacinamide"
+    ],
+    "formulation": [
+      "Toners"
+    ],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA241026432"
+  },
+  {
+    "id": "GA240825329",
+    "brand": "SKIN1004",
+    "name": "SKIN1004 Madagascar Centella Probio-Cica Enrich Cream 50ml",
+    "category": "Essence & Serum",
+    "parent_category": "Moisturizers",
+    "price_usd": 20.4,
+    "original_price_usd": 24.0,
+    "rating": 4.8,
+    "review_count": 319,
+    "image_path": "prdtImg/1215/d45c7599-b26a-4c05-b2bc-81f253960bcd.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [
+      "Moringa Oleifera Seed Oil",
+      "Lactobacillus",
+      "Macadamia Ternifolia Seed Oil",
+      "Centella Asiatica Extract (Cica Care)",
+      "Ceramide"
+    ],
+    "formulation": [
+      "Cream"
+    ],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA240825329"
+  },
+  {
+    "id": "GA250732509",
+    "brand": "INNISFREE",
+    "name": "INNISFREE Retinol Cica Repair Ampoule 30ml (+10ml)",
+    "category": "Essence & Serum",
+    "parent_category": "Moisturizers",
+    "price_usd": 32.9,
+    "original_price_usd": 47.0,
+    "rating": 4.5,
+    "review_count": 4,
+    "image_path": "prdtImg/1322/53ee5452-e3a7-40aa-82ba-56f3809052a9.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [
+      "Niacinamide",
+      "Retinol",
+      "Allantoin",
+      "Hyaluronic acid"
+    ],
+    "formulation": [
+      "Fluid"
+    ],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250732509"
+  },
+  {
+    "id": "GA210000530",
+    "brand": "COSRX",
+    "name": "COSRX Advanced Snail 96 Mucin Power Essence 100 mL",
+    "category": "Essence & Serum",
+    "parent_category": "Moisturizers",
+    "price_usd": 18.8,
+    "original_price_usd": 22.0,
+    "rating": 4.8,
+    "review_count": 2921,
+    "image_path": "prdtImg/1327/f6168a73-afc3-4eb9-bf5c-285925a47aa0.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [
+      "Snail Secretion",
+      "Betaine",
+      "Allantoin",
+      "Panthenol",
+      "Hyaluronic acid"
+    ],
+    "formulation": [
+      "Ampoules"
+    ],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA210000530"
+  },
+  {
+    "id": "GA260439308",
+    "brand": "Centellian24",
+    "name": "Centellian24 360&deg; Shot PDRN Active Serum 50ml",
+    "category": "Essence & Serum",
+    "parent_category": "Moisturizers",
+    "price_usd": 32.49,
+    "original_price_usd": 38.0,
+    "rating": 0.0,
+    "review_count": 0,
+    "image_path": "prdtImg/1600/2936f2b3-d620-4e1b-b6c3-e7866aa2f833.png",
+    "skin_type": [],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA260439308"
+  },
+  {
+    "id": "GA230518636",
+    "brand": "AXIS-Y",
+    "name": "AXIS-Y Dark Spot Correcting Glow Serum 50mL",
+    "category": "Essence & Serum",
+    "parent_category": "Moisturizers",
+    "price_usd": 19.78,
+    "original_price_usd": 23.0,
+    "rating": 4.7,
+    "review_count": 2858,
+    "image_path": "prdtImg/1872/0697b90b-6822-4572-ad04-34748d3bc851.png",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [
+      "Niacinamide",
+      "Squalene",
+      "Oryza Sativa (Rice) Bran Extract"
+    ],
+    "formulation": [
+      "Cream"
+    ],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA230518636"
+  },
+  {
+    "id": "GA240523480",
+    "brand": "iUNIK",
+    "name": "iUNIK Tea Tree Relief Serum 50ml",
+    "category": "Essence & Serum",
+    "parent_category": "Moisturizers",
+    "price_usd": 16.8,
+    "original_price_usd": 21.0,
+    "rating": 4.8,
+    "review_count": 349,
+    "image_path": "prdtImg/1587/e068354b-491f-4283-832c-c24b82ba35d0.jpg",
+    "skin_type": [],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA240523480"
+  },
+  {
+    "id": "GA240121573",
+    "brand": "AESTURA",
+    "name": "AESTURA Atobarrier 365 Cream 80mL",
+    "category": "Cream",
+    "parent_category": "Moisturizers",
+    "price_usd": 35.2,
+    "original_price_usd": 44.0,
+    "rating": 4.9,
+    "review_count": 1070,
+    "image_path": "prdtImg/1048/80ed7799-c56a-4351-a814-16097ad1a702.jpg",
+    "skin_type": [
+      "Combination&Normal",
+      "Sensitive"
+    ],
+    "key_ingredients": [
+      "Ceramide"
+    ],
+    "formulation": [
+      "Cream"
+    ],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA240121573"
+  },
+  {
+    "id": "GA250329700",
+    "brand": "celimax",
+    "name": "celimax Pore + Dark Spot Brightening Cream 35ml",
+    "category": "Cream",
+    "parent_category": "Moisturizers",
+    "price_usd": 26.82,
+    "original_price_usd": 41.0,
+    "rating": 4.7,
+    "review_count": 165,
+    "image_path": "prdtImg/1785/341cbf97-f9d1-4441-b612-df07915b8ccb.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [
+      "Niacinamide",
+      "Mentha Viridis (Spearmint) Extract"
+    ],
+    "formulation": [
+      "Cream"
+    ],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250329700"
+  },
+  {
+    "id": "GA251034528",
+    "brand": "Dr. Althea",
+    "name": "Dr. Althea 345 Relief Cream 50ml",
+    "category": "Cream",
+    "parent_category": "Moisturizers",
+    "price_usd": 22.8,
+    "original_price_usd": 27.0,
+    "rating": 4.8,
+    "review_count": 422,
+    "image_path": "prdtImg/1679/3752eda8-8938-4233-821d-1b57e34ab421.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [
+      "Niacinamide",
+      "Camellia Sinensis Leaf Water",
+      "Resveratrol",
+      "Madecassoside",
+      "Ceramide"
+    ],
+    "formulation": [
+      "Cream"
+    ],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA251034528"
+  },
+  {
+    "id": "GA250127756",
+    "brand": "THE WHOO",
+    "name": "THE WHOO Gong Jin Hyang Firming Cream 50ml",
+    "category": "Cream",
+    "parent_category": "Moisturizers",
+    "price_usd": 162.9,
+    "original_price_usd": 181.0,
+    "rating": 4.0,
+    "review_count": 1,
+    "image_path": "prdtImg/1776/ca934d65-140f-4145-9dee-8e1a68d0794c.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [
+      "Panax Ginseng Root Extract",
+      "Panthenol",
+      "Red Ginseng Extract",
+      "Yeast Extract"
+    ],
+    "formulation": [
+      "Ampoules",
+      "Cream"
+    ],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250127756"
+  },
+  {
+    "id": "GA240724704",
+    "brand": "Purito Seoul",
+    "name": "Purito Seoul Mighty Bamboo Panthenol Cream 100mL",
+    "category": "Cream",
+    "parent_category": "Moisturizers",
+    "price_usd": 18.4,
+    "original_price_usd": 23.0,
+    "rating": 4.8,
+    "review_count": 1286,
+    "image_path": "prdtImg/1743/00b0c883-82e9-44a9-b69f-bfb9d4b4ce99.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [
+      "Squalene",
+      "Panthenol"
+    ],
+    "formulation": [
+      "Fluid"
+    ],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA240724704"
+  },
+  {
+    "id": "GA260237937",
+    "brand": "Dr. Althea",
+    "name": "Dr. Althea PDRN Reju 5000 Cream 20g",
+    "category": "Cream",
+    "parent_category": "Moisturizers",
+    "price_usd": 27.55,
+    "original_price_usd": 29.0,
+    "rating": 4.9,
+    "review_count": 12,
+    "image_path": "prdtImg/1332/ae19a398-9a7c-4a34-97d2-17abc6244258.jpg",
+    "skin_type": [],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA260237937"
+  },
+  {
+    "id": "GA250228767",
+    "brand": "Purito Seoul",
+    "name": "Purito Seoul Oat-In Calming Gel Cream 100ml",
+    "category": "Cream",
+    "parent_category": "Moisturizers",
+    "price_usd": 17.55,
+    "original_price_usd": 19.5,
+    "rating": 4.7,
+    "review_count": 779,
+    "image_path": "prdtImg/1718/c5dc4a74-bd5e-4c0c-9fbc-6ca13148a079.png",
+    "skin_type": [],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250228767"
+  },
+  {
+    "id": "GA210003747",
+    "brand": "ROUND LAB",
+    "name": "ROUND LAB 1025 Dokdo Cream 80ml + 20ml",
+    "category": "Cream",
+    "parent_category": "Moisturizers",
+    "price_usd": 39.0,
+    "original_price_usd": 39.0,
+    "rating": 4.8,
+    "review_count": 468,
+    "image_path": "prdtImg/1393/b4cd1744-ca58-4660-b5f6-51548aed030e.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [
+      "Ceramide",
+      "Hyaluronic acid"
+    ],
+    "formulation": [
+      "Ampoules"
+    ],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA210003747"
+  },
+  {
+    "id": "GA240121561",
+    "brand": "Centellian24",
+    "name": "Centellian24 Madeca Cream Time Reverse 50mL",
+    "category": "Cream",
+    "parent_category": "Moisturizers",
+    "price_usd": 24.2,
+    "original_price_usd": 44.0,
+    "rating": 4.7,
+    "review_count": 293,
+    "image_path": "prdtImg/1855/87863285-3f51-4f93-b89f-4a223180f989.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [
+      "Centella Asiatica Extract (Cica Care)"
+    ],
+    "formulation": [
+      "Ampoules"
+    ],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA240121561"
+  },
+  {
+    "id": "GA240322503",
+    "brand": "Beauty of Joseon",
+    "name": "Beauty of Joseon Dynasty Cream 100mL",
+    "category": "Cream",
+    "parent_category": "Moisturizers",
+    "price_usd": 30.6,
+    "original_price_usd": 34.0,
+    "rating": 4.9,
+    "review_count": 232,
+    "image_path": "prdtImg/1980/b6945ae2-8c32-41f3-b65a-c9a5688833b0.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [
+      "Squalene",
+      "Panax Ginseng Root Water"
+    ],
+    "formulation": [
+      "Ampoules",
+      "Cream"
+    ],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA240322503"
+  },
+  {
+    "id": "GA250933794",
+    "brand": "Dr. Althea",
+    "name": "Dr. Althea 345 Relief Cream Mist 100ml",
+    "category": "Face Mist",
+    "parent_category": "Moisturizers",
+    "price_usd": 26.1,
+    "original_price_usd": 29.0,
+    "rating": 4.9,
+    "review_count": 147,
+    "image_path": "prdtImg/1069/73f6f211-c9dc-43ab-8b30-d7bd5afe6a7d.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [
+      "Madecassoside",
+      "Oryza Sativa (Rice) Extract",
+      "Houttuynia Cordata Extract",
+      "Panthenol",
+      "Hyaluronic acid"
+    ],
+    "formulation": [
+      "Toners"
+    ],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250933794"
+  },
+  {
+    "id": "GA230920378",
+    "brand": "BIOHEAL BOH",
+    "name": "BIOHEAL BOH PANTHECELL Repair Cica Cream Mist 120mL",
+    "category": "Face Mist",
+    "parent_category": "Moisturizers",
+    "price_usd": 15.75,
+    "original_price_usd": 21.0,
+    "rating": 4.7,
+    "review_count": 669,
+    "image_path": "prdtImg/1493/bdf8db1d-cb73-4ea6-97a8-e142332c045d.jpg",
+    "skin_type": [
+      "Combination&Normal",
+      "Sensitive"
+    ],
+    "key_ingredients": [
+      "Centella Asiatica Extract (Cica Care)",
+      "Panthenol",
+      "Peptide"
+    ],
+    "formulation": [
+      "Fluid",
+      "Toners"
+    ],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA230920378"
+  },
+  {
+    "id": "GA251034213",
+    "brand": "Anua",
+    "name": "Anua PDRN Hyaluronic Acid Hydrating Capsule Mist 30ml",
+    "category": "Face Mist",
+    "parent_category": "Moisturizers",
+    "price_usd": 17.0,
+    "original_price_usd": 27.2,
+    "rating": 4.7,
+    "review_count": 184,
+    "image_path": "prdtImg/1506/d61ee113-59ec-4798-ab82-c20323a0e7aa.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [
+      "Hyaluronic acid"
+    ],
+    "formulation": [
+      "Oil",
+      "Toners"
+    ],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA251034213"
+  },
+  {
+    "id": "GA250933795",
+    "brand": "Dr. Althea",
+    "name": "Dr. Althea 345 Relief Cream Mist 60ml",
+    "category": "Face Mist",
+    "parent_category": "Moisturizers",
+    "price_usd": 17.1,
+    "original_price_usd": 19.0,
+    "rating": 4.7,
+    "review_count": 62,
+    "image_path": "prdtImg/1656/6e45c08f-99a6-453c-bf76-b9857f27fbd2.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [
+      "Madecassoside",
+      "Oryza Sativa (Rice) Extract",
+      "Houttuynia Cordata Extract",
+      "Panthenol",
+      "Hyaluronic acid"
+    ],
+    "formulation": [
+      "Toners"
+    ],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250933795"
+  },
+  {
+    "id": "GA251034154",
+    "brand": "Hesul",
+    "name": "Hesul Rice Protein Serum Mist 150ml",
+    "category": "Face Mist",
+    "parent_category": "Moisturizers",
+    "price_usd": 23.0,
+    "original_price_usd": 23.0,
+    "rating": 4.7,
+    "review_count": 9,
+    "image_path": "prdtImg/1359/2c195792-e9b2-4762-90af-f7635e11f4b0.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [
+      "Lactobacillus",
+      "Oryza Sativa (Rice) Bran Oil"
+    ],
+    "formulation": [
+      "Toners"
+    ],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA251034154"
+  },
+  {
+    "id": "GA210002034",
+    "brand": "AESTURA",
+    "name": "AESTURA Atobarrier 365 Cream Mist 120ml",
+    "category": "Face Mist",
+    "parent_category": "Moisturizers",
+    "price_usd": 21.6,
+    "original_price_usd": 24.0,
+    "rating": 4.7,
+    "review_count": 684,
+    "image_path": "mig/prdtImg/9e1b53f942b2e8c9071054d9d0e11249.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [
+      "Ceramide"
+    ],
+    "formulation": [
+      "Fluid"
+    ],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA210002034"
+  },
+  {
+    "id": "GA260439271",
+    "brand": "BIOHEAL BOH",
+    "name": "BIOHEAL BOH Panthecell Repair Cica Hydrating Capsule Mist 100ml",
+    "category": "Face Mist",
+    "parent_category": "Moisturizers",
+    "price_usd": 16.9,
+    "original_price_usd": 26.0,
+    "rating": 0.0,
+    "review_count": 0,
+    "image_path": "prdtImg/1489/97251626-7e4b-498d-945b-d38d2d22900d.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [
+      "Betaine",
+      "Centella Asiatica Extract (Cica Care)",
+      "Panthenol",
+      "Peptide"
+    ],
+    "formulation": [
+      "Fluid"
+    ],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA260439271"
+  },
+  {
+    "id": "GA250228760",
+    "brand": "Haruharu wonder",
+    "name": "Haruharu wonder Black Bamboo Mist 80ml",
+    "category": "Face Mist",
+    "parent_category": "Moisturizers",
+    "price_usd": 16.15,
+    "original_price_usd": 17.0,
+    "rating": 4.7,
+    "review_count": 22,
+    "image_path": "prdtImg/1912/5a12ffe5-8ad1-4437-9ab2-f8c5a269a763.jpg",
+    "skin_type": [],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250228760"
+  },
+  {
+    "id": "GA250430136",
+    "brand": "BIOHEAL BOH",
+    "name": "BIOHEAL BOH Panthecell Repair Cica Cream Mist 60ml",
+    "category": "Face Mist",
+    "parent_category": "Moisturizers",
+    "price_usd": 8.55,
+    "original_price_usd": 11.0,
+    "rating": 4.7,
+    "review_count": 151,
+    "image_path": "prdtImg/1342/2c355baa-3c75-4cd8-af5e-c0171ac87d79.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [
+      "Glycerin",
+      "Centella Asiatica Extract (Cica Care)",
+      "Citric Acid",
+      "Panthenol"
+    ],
+    "formulation": [
+      "Toners"
+    ],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250430136"
+  },
+  {
+    "id": "GA260439241",
+    "brand": "Dr.G",
+    "name": "Dr.G Red Blemish Cool Soothing Jelly Mist 100ml",
+    "category": "Face Mist",
+    "parent_category": "Moisturizers",
+    "price_usd": 28.0,
+    "original_price_usd": 28.0,
+    "rating": 0.0,
+    "review_count": 0,
+    "image_path": "prdtImg/1767/31597333-d4e9-40fd-a1f0-4ceb4ff59216.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [
+      "Laminaria Japonica Extract",
+      "Centella Asiatica Extract (Cica Care)",
+      "Aloe Extract",
+      "Xylitol",
+      "Xylitylglucoside"
+    ],
+    "formulation": [
+      "Gel"
+    ],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA260439241"
+  },
+  {
+    "id": "GA260338956",
+    "brand": "medicube",
+    "name": "medicube Kojic Acid Turmeric Vita Jelly Mist Serum 100ml",
+    "category": "Face Mist",
+    "parent_category": "Moisturizers",
+    "price_usd": 31.34,
+    "original_price_usd": 33.0,
+    "rating": 0.0,
+    "review_count": 0,
+    "image_path": "prdtImg/1698/d2dde169-7d54-4eeb-be46-6ca580dc3463.jpg",
+    "skin_type": [],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA260338956"
+  },
+  {
+    "id": "GA260237306",
+    "brand": "Ooznary",
+    "name": "Ooznary Vita 3 Aurora Mist 60ml",
+    "category": "Face Mist",
+    "parent_category": "Moisturizers",
+    "price_usd": 16.8,
+    "original_price_usd": 21.0,
+    "rating": 5.0,
+    "review_count": 2,
+    "image_path": "prdtImg/1919/e470a823-6797-48f0-87f5-34276577775a.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [
+      "Glutathione (Vitamin G)",
+      "Hippophae Rhamnoides Water",
+      "Ceramide",
+      "Amino Acid",
+      "Panthenol"
+    ],
+    "formulation": [
+      "Toners"
+    ],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA260237306"
+  },
+  {
+    "id": "GA260136954",
+    "brand": "groundplan",
+    "name": "groundplan Mist 50ml",
+    "category": "Face Mist",
+    "parent_category": "Moisturizers",
+    "price_usd": 21.86,
+    "original_price_usd": 26.0,
+    "rating": 4.5,
+    "review_count": 4,
+    "image_path": "prdtImg/1651/045b44e4-f611-4cc5-adba-219dc894471a.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [
+      "Lavandula Angustifolia (Lavender) Oil",
+      "Centella Asiatica Extract (Cica Care)",
+      "Allantoin"
+    ],
+    "formulation": [
+      "Toners"
+    ],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA260136954"
+  },
+  {
+    "id": "GA260136606",
+    "brand": "PURCELL",
+    "name": "PURCELL 24/7 Colostrum Pore Defence Ampoule Pink 55ml",
+    "category": "Face Mist",
+    "parent_category": "Moisturizers",
+    "price_usd": 37.0,
+    "original_price_usd": 37.0,
+    "rating": 4.5,
+    "review_count": 13,
+    "image_path": "prdtImg/1194/fe2b83ac-1889-4383-abe0-2f6fd21db661.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [
+      "Lactobacillus",
+      "Bifida Ferment"
+    ],
+    "formulation": [
+      "Toners"
+    ],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA260136606"
+  },
+  {
+    "id": "GA260136427",
+    "brand": "COSRX",
+    "name": "COSRX The Ceramide Skin Barrier Moisturizing Mist 120ml",
+    "category": "Face Mist",
+    "parent_category": "Moisturizers",
+    "price_usd": 23.8,
+    "original_price_usd": 28.0,
+    "rating": 5.0,
+    "review_count": 5,
+    "image_path": "prdtImg/1441/60bf250d-e618-4680-bc6b-53f525e26db9.jpg",
+    "skin_type": [
+      "Dry",
+      "Sensitive"
+    ],
+    "key_ingredients": [
+      "Ceramide"
+    ],
+    "formulation": [
+      "Toners"
+    ],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA260136427"
+  },
+  {
+    "id": "GA260136417",
+    "brand": "motomont",
+    "name": "motomont Afternoon Facial Mist 100ml",
+    "category": "Face Mist",
+    "parent_category": "Moisturizers",
+    "price_usd": 34.0,
+    "original_price_usd": 34.0,
+    "rating": 4.3,
+    "review_count": 3,
+    "image_path": "prdtImg/1978/8a474c1a-7930-4aa5-a990-32af9eb2c615.png",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [
+      "Niacinamide",
+      "Borago Officinalis Extract",
+      "Adenosine",
+      "Theobroma Cacao (Cocoa) Extract",
+      "Hyaluronic acid"
+    ],
+    "formulation": [
+      "Toners"
+    ],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA260136417"
+  },
+  {
+    "id": "GA251235920",
+    "brand": "9wishes",
+    "name": "9wishes Hydra Panthe-Tol Barrier Mist 120ml",
+    "category": "Face Mist",
+    "parent_category": "Moisturizers",
+    "price_usd": 21.6,
+    "original_price_usd": 27.0,
+    "rating": 5.0,
+    "review_count": 1,
+    "image_path": "prdtImg/1025/cd4546f7-1c30-4717-bb24-65238fca1674.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [
+      "Ceramide",
+      "Xylitol",
+      "Panthenol"
+    ],
+    "formulation": [
+      "Fluid"
+    ],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA251235920"
+  },
+  {
+    "id": "GA251235636",
+    "brand": "LASSIE'EL",
+    "name": "LASSIE'EL Angelcica Calming-aging Essence Mist 50ml",
+    "category": "Face Mist",
+    "parent_category": "Moisturizers",
+    "price_usd": 25.9,
+    "original_price_usd": 37.0,
+    "rating": 0.0,
+    "review_count": 0,
+    "image_path": "prdtImg/1310/6c5d54b4-70df-4e69-bf70-352fd92d018f.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [
+      "Bakuchiol",
+      "Centella Asiatica Extract (Cica Care)"
+    ],
+    "formulation": [
+      "Oil"
+    ],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA251235636"
+  },
+  {
+    "id": "GA251235623",
+    "brand": "d'Alba",
+    "name": "d&rsquo;Alba Vita Toning Anti-Aging Spray Serum 8% 70ml",
+    "category": "Face Mist",
+    "parent_category": "Moisturizers",
+    "price_usd": 29.98,
+    "original_price_usd": 44.0,
+    "rating": 4.8,
+    "review_count": 6,
+    "image_path": "prdtImg/1292/abdb0e95-ea4b-4284-b2ac-707f78ed0690.png",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [
+      "Niacinamide",
+      "Hippophae Rhamnoides Water",
+      "Tocopherol (Vitamin E)",
+      "Tuber Magnatum (White Truffle) Extract",
+      "Hyaluronic acid"
+    ],
+    "formulation": [
+      "Oil"
+    ],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA251235623"
+  },
+  {
+    "id": "GA250329553",
+    "brand": "ONE THING",
+    "name": "ONE THING Jojoba Golden Organic Oil 50ml",
+    "category": "Face Oil",
+    "parent_category": "Moisturizers",
+    "price_usd": 22.4,
+    "original_price_usd": 32.0,
+    "rating": 4.2,
+    "review_count": 6,
+    "image_path": "prdtImg/1274/e38fe8d7-b9e1-4a6f-b9a3-5bbd67a29075.jpg",
+    "skin_type": [],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250329553"
+  },
+  {
+    "id": "GA241126656",
+    "brand": "carenology",
+    "name": "carenology Re:Blue Night Facial Oil 50ml",
+    "category": "Face Oil",
+    "parent_category": "Moisturizers",
+    "price_usd": 87.55,
+    "original_price_usd": 103.0,
+    "rating": 5.0,
+    "review_count": 3,
+    "image_path": "prdtImg/1203/21033f95-b9dd-4de3-a8df-a90f0732fd3b.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [
+      "Tanacetum Annuum Flower Oil",
+      "Kukui Nut Oil",
+      "Simmondsia Chinensis (Jojoba) Seed Oil"
+    ],
+    "formulation": [
+      "Oil"
+    ],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA241126656"
+  },
+  {
+    "id": "GA240121800",
+    "brand": "Shingmulnara",
+    "name": "Shingmulnara Yuchae Flower Honey Watery Multi Oil 30mL",
+    "category": "Face Oil",
+    "parent_category": "Moisturizers",
+    "price_usd": 21.0,
+    "original_price_usd": 21.0,
+    "rating": 4.3,
+    "review_count": 22,
+    "image_path": "prdtImg/1611/5e8f79f3-53fb-45e1-bed7-c8a8acd8d55a.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [
+      "Honey Extract",
+      "Persea Gratissima (Avocado) Oil",
+      "Brassica Campestris (Rapeseed) Seed Oil",
+      "Helianthus Annuus (Sunflower) Seed Oil"
+    ],
+    "formulation": [
+      "Oil"
+    ],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA240121800"
+  },
+  {
+    "id": "GA221116709",
+    "brand": "Haruharu wonder",
+    "name": "Haruharu wonder Black Rice Facial Oil 30ml\t",
+    "category": "Face Oil",
+    "parent_category": "Moisturizers",
+    "price_usd": 25.65,
+    "original_price_usd": 27.0,
+    "rating": 4.7,
+    "review_count": 80,
+    "image_path": "prdtImg/1068/98ae498e-b05b-4680-b3fd-d34baf02b6fa.jpg",
+    "skin_type": [],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA221116709"
+  },
+  {
+    "id": "GA220816059",
+    "brand": "COSRX",
+    "name": "COSRX The Retinol 0.5 Oil",
+    "category": "Face Oil",
+    "parent_category": "Moisturizers",
+    "price_usd": 22.35,
+    "original_price_usd": 27.0,
+    "rating": 4.7,
+    "review_count": 247,
+    "image_path": "prdtImg/1943/23aa96b2-5c6b-4f18-9e56-b5393254bb18.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [
+      "Retinol",
+      "Squalene"
+    ],
+    "formulation": [
+      "Fluid"
+    ],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA220816059"
+  },
+  {
+    "id": "GA210004311",
+    "brand": "The Ordinary",
+    "name": "The Ordinary 100% Cold-Pressed Rose Hip Seed Oil 30ml",
+    "category": "Face Oil",
+    "parent_category": "Moisturizers",
+    "price_usd": 16.0,
+    "original_price_usd": 16.0,
+    "rating": 4.2,
+    "review_count": 6,
+    "image_path": "mig/prdtImg/2c61182375f771eb95ec70c29481b7f0.jpg",
+    "skin_type": [
+      "Combination&Normal",
+      "Dry"
+    ],
+    "key_ingredients": [
+      "Rosa Canina Seed Oil"
+    ],
+    "formulation": [
+      "Oil"
+    ],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA210004311"
+  },
+  {
+    "id": "GA210000563",
+    "brand": "ROVECTIN",
+    "name": "ROVECTIN Intense Glow Oil 30ml",
+    "category": "Face Oil",
+    "parent_category": "Moisturizers",
+    "price_usd": 27.6,
+    "original_price_usd": 46.0,
+    "rating": 4.5,
+    "review_count": 17,
+    "image_path": "prdtImg/1973/d44ba032-3cf3-4ba9-8aed-a66ea57f036d.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [
+      "Citrus Aurantium Amara (Bitter Orange) Flower Oil",
+      "Squalene",
+      "Tocopherol (Vitamin E)",
+      "Helianthus Annuus (Sunflower) Seed Oil"
+    ],
+    "formulation": [
+      "Oil"
+    ],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA210000563"
+  },
+  {
+    "id": "GA210000381",
+    "brand": "Trilogy",
+    "name": "Trilogy Certified Organic Rosehip Oil 20ml",
+    "category": "Face Oil",
+    "parent_category": "Moisturizers",
+    "price_usd": 30.45,
+    "original_price_usd": 35.0,
+    "rating": 5.0,
+    "review_count": 1,
+    "image_path": "mig/prdtImg/d2cb68c102b1da6199b13463bb6c1f01.jpg",
+    "skin_type": [
+      "Dry"
+    ],
+    "key_ingredients": [
+      "Rosa Canina Seed Oil"
+    ],
+    "formulation": [
+      "Oil"
+    ],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA210000381"
+  },
+  {
+    "id": "GA250832756",
+    "brand": "VT",
+    "name": "VT PDRN Reedle Shot Firming Eye Cream 15ml",
+    "category": "Spot Care",
+    "parent_category": "Moisturizers",
+    "price_usd": 29.04,
+    "original_price_usd": 49.0,
+    "rating": 4.8,
+    "review_count": 309,
+    "image_path": "prdtImg/1519/dbad7eaa-36d3-4511-b459-13ed55f0db59.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [
+      "Centella Asiatica Extract (Cica Care)",
+      "Ceramide",
+      "Collagen"
+    ],
+    "formulation": [
+      "Ampoules"
+    ],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250832756"
+  },
+  {
+    "id": "GA220816048",
+    "brand": "Beauty of Joseon",
+    "name": "Beauty of Joseon Revive Eye Serum Ginseng + Retinal 30mL",
+    "category": "Spot Care",
+    "parent_category": "Moisturizers",
+    "price_usd": 13.89,
+    "original_price_usd": 17.0,
+    "rating": 4.7,
+    "review_count": 2753,
+    "image_path": "prdtImg/1799/32abf014-9f01-46d6-bcfd-86b89e1e08ca.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [
+      "Retinal",
+      "Panax Ginseng Root Extract"
+    ],
+    "formulation": [
+      "Ampoules"
+    ],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA220816048"
+  },
+  {
+    "id": "GA250631809",
+    "brand": "numbuzin",
+    "name": "numbuzin No. 9 NAD Retinol Volume Shot Eye Cream 10ml",
+    "category": "Spot Care",
+    "parent_category": "Moisturizers",
+    "price_usd": 16.8,
+    "original_price_usd": 21.0,
+    "rating": 4.7,
+    "review_count": 474,
+    "image_path": "prdtImg/1891/d024651c-ba21-4be4-8e5a-ca7c9f6395c0.jpg",
+    "skin_type": [],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250631809"
+  },
+  {
+    "id": "GA260237939",
+    "brand": "mixsoon",
+    "name": "mixsoon PDRN Collagen Eye Serum 20ml",
+    "category": "Spot Care",
+    "parent_category": "Moisturizers",
+    "price_usd": 19.44,
+    "original_price_usd": 24.0,
+    "rating": 0.0,
+    "review_count": 0,
+    "image_path": "prdtImg/1797/5d3b346c-1ba5-4110-8a87-a5857ec701d3.jpg",
+    "skin_type": [],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA260237939"
+  },
+  {
+    "id": "GA250832828",
+    "brand": "ROUND LAB",
+    "name": "ROUND LAB Birch Juice Moisturizing Eye Balm 10g",
+    "category": "Spot Care",
+    "parent_category": "Moisturizers",
+    "price_usd": 14.0,
+    "original_price_usd": 35.0,
+    "rating": 4.5,
+    "review_count": 31,
+    "image_path": "prdtImg/1299/acc0f5c4-f2a1-40de-a373-72f4d5e318e0.jpg",
+    "skin_type": [
+      "Sensitive"
+    ],
+    "key_ingredients": [
+      "Betula Platyphylla Japonica Juice"
+    ],
+    "formulation": [
+      "Balm"
+    ],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250832828"
+  },
+  {
+    "id": "GA240825328",
+    "brand": "SKIN1004",
+    "name": "SKIN1004 Madagascar Centella Probio-Cica Bakuchiol Eye Cream 20ml",
+    "category": "Spot Care",
+    "parent_category": "Moisturizers",
+    "price_usd": 17.85,
+    "original_price_usd": 21.0,
+    "rating": 4.6,
+    "review_count": 576,
+    "image_path": "prdtImg/1045/e6db805e-b0c0-46ca-9cfb-38399b6235cf.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [
+      "Bakuchiol",
+      "Centella Asiatica Extract (Cica Care)",
+      "Ceramide",
+      "Hyaluronic acid"
+    ],
+    "formulation": [
+      "Ampoules"
+    ],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA240825328"
+  },
+  {
+    "id": "GA240825324",
+    "brand": "AESTURA",
+    "name": "AESTURA Regederm365 Retinoid Eye Serum 15ml",
+    "category": "Spot Care",
+    "parent_category": "Moisturizers",
+    "price_usd": 39.1,
+    "original_price_usd": 46.0,
+    "rating": 4.8,
+    "review_count": 33,
+    "image_path": "prdtImg/1377/a8724935-1838-44b3-94c7-d001ee87b7ad.jpg",
+    "skin_type": [
+      "Combination&Normal",
+      "Sensitive"
+    ],
+    "key_ingredients": [
+      "Adenosine",
+      "Panthenol",
+      "Peptide",
+      "Hyaluronic acid"
+    ],
+    "formulation": [
+      "Ampoules"
+    ],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA240825324"
+  },
+  {
+    "id": "GA250731975",
+    "brand": "Dr.Melaxin",
+    "name": "Dr.Melaxin Eyephalt Retinol Eyebag Cream 10g",
+    "category": "Spot Care",
+    "parent_category": "Moisturizers",
+    "price_usd": 36.0,
+    "original_price_usd": 36.0,
+    "rating": 3.6,
+    "review_count": 5,
+    "image_path": "prdtImg/1438/9c1f9626-0b47-42dd-82e8-f95ef409e711.png",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [
+      "Niacinamide",
+      "Retinol",
+      "Adenosine",
+      "Caffeine",
+      "Hyaluronic acid"
+    ],
+    "formulation": [
+      "Ampoules"
+    ],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250731975"
+  },
+  {
+    "id": "GA260137218",
+    "brand": "Anua",
+    "name": "Anua Retinol 0.1 Caffeine Revitalizing Eye Cream 30g",
+    "category": "Spot Care",
+    "parent_category": "Moisturizers",
+    "price_usd": 32.0,
+    "original_price_usd": 40.0,
+    "rating": 5.0,
+    "review_count": 1,
+    "image_path": "prdtImg/1672/a8ad4f29-7bad-4771-84e1-4b9da184fdfe.png",
+    "skin_type": [],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA260137218"
+  },
+  {
+    "id": "GA251033904",
+    "brand": "KSECRET",
+    "name": "KSECRET Seoul 1988 Eye Cream: Retinal Liposome 4%+Fermented Bean 30ml",
+    "category": "Spot Care",
+    "parent_category": "Moisturizers",
+    "price_usd": 15.4,
+    "original_price_usd": 22.0,
+    "rating": 4.7,
+    "review_count": 51,
+    "image_path": "prdtImg/1339/c5d5d8f0-3609-46e3-ba72-c673e7176c81.jpg",
+    "skin_type": [],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA251033904"
+  },
+  {
+    "id": "GA260137011",
+    "brand": "Dr.Jart+",
+    "name": "Dr.Jart+ Ceramidin Skin Barrier Moisturizing Eye Cream 15ml",
+    "category": "Spot Care",
+    "parent_category": "Moisturizers",
+    "price_usd": 26.0,
+    "original_price_usd": 52.0,
+    "rating": 5.0,
+    "review_count": 1,
+    "image_path": "prdtImg/1784/bdf4b187-f774-4298-9ffc-c13a6d4b9c24.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [
+      "Ceramide",
+      "Panthenol"
+    ],
+    "formulation": [
+      "Cream"
+    ],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA260137011"
+  },
+  {
+    "id": "GA250329154",
+    "brand": "INNISFREE",
+    "name": "INNISFREE Green Tea Hyaluronic Glow Eye & Face Ball 10ml",
+    "category": "Spot Care",
+    "parent_category": "Moisturizers",
+    "price_usd": 18.9,
+    "original_price_usd": 27.0,
+    "rating": 4.6,
+    "review_count": 28,
+    "image_path": "prdtImg/1956/ab34d105-b0d5-42c7-9813-587dc6aaa83c.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [
+      "Camellia Sinensis Leaf Extract",
+      "Hyaluronic acid"
+    ],
+    "formulation": [
+      "Fluid"
+    ],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250329154"
+  },
+  {
+    "id": "GA260136872",
+    "brand": "THE SAEM",
+    "name": "THE SAEM Iceland Hydrating Eye Stick 11g (Hydrating/Collagen/Peptide)",
+    "category": "Spot Care",
+    "parent_category": "Moisturizers",
+    "price_usd": 13.5,
+    "original_price_usd": 15.0,
+    "rating": 5.0,
+    "review_count": 3,
+    "image_path": "prdtImg/1851/b83b11fd-aa26-442d-ae67-cb9d0642dfef.jpg",
+    "skin_type": [],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA260136872"
+  },
+  {
+    "id": "GA240624387",
+    "brand": "Purito Seoul",
+    "name": "Purito Seoul Wonder Releaf Centella Eye Cream Unscented 30ml",
+    "category": "Spot Care",
+    "parent_category": "Moisturizers",
+    "price_usd": 11.2,
+    "original_price_usd": 16.0,
+    "rating": 4.7,
+    "review_count": 190,
+    "image_path": "prdtImg/1895/3d85dedd-2d91-451f-9c09-da8ea3da2eb2.jpg",
+    "skin_type": [
+      "Sensitive"
+    ],
+    "key_ingredients": [
+      "Centella Asiatica Extract (Cica Care)",
+      "Adenosine"
+    ],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA240624387"
+  },
+  {
+    "id": "GA260338367",
+    "brand": "Eucerin",
+    "name": "Eucerin Hyaluron 3X Eye Cream 15ml",
+    "category": "Spot Care",
+    "parent_category": "Moisturizers",
+    "price_usd": 62.0,
+    "original_price_usd": 62.0,
+    "rating": 0.0,
+    "review_count": 0,
+    "image_path": "prdtImg/1994/1fc66bb1-a0de-49ca-9412-5503a30b2a9b.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [
+      "Glycine Soja (Soybean) Germ Extract",
+      "Hyaluronic acid"
+    ],
+    "formulation": [
+      "Ampoules"
+    ],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA260338367"
+  },
+  {
+    "id": "GA260137003",
+    "brand": "Dr.Jart+",
+    "name": "Dr.Jart+ Prejuvenation Firming Bakuchiol Eye Cream 15ml",
+    "category": "Spot Care",
+    "parent_category": "Moisturizers",
+    "price_usd": 42.7,
+    "original_price_usd": 61.0,
+    "rating": 0.0,
+    "review_count": 0,
+    "image_path": "prdtImg/1123/c759ca06-1c08-411e-a365-b17854e1b22c.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [
+      "Bakuchiol",
+      "Adenosine",
+      "Collagen"
+    ],
+    "formulation": [
+      "Ampoules"
+    ],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA260137003"
+  },
+  {
+    "id": "GA260136607",
+    "brand": "Esthederm",
+    "name": "Esthederm Hyaluronic Plus Eye Serum 15ml",
+    "category": "Spot Care",
+    "parent_category": "Moisturizers",
+    "price_usd": 53.2,
+    "original_price_usd": 76.0,
+    "rating": 0.0,
+    "review_count": 0,
+    "image_path": "prdtImg/1910/265f7d3a-13f6-4620-af84-3b0ad76489ea.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [
+      "Adenosine",
+      "Hyaluronic acid"
+    ],
+    "formulation": [
+      "Gel"
+    ],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA260136607"
+  },
+  {
+    "id": "GA250832683",
+    "brand": "DERMALINE",
+    "name": "DERMALINE Bio Activing PDRN Eye Cream 30g",
+    "category": "Spot Care",
+    "parent_category": "Moisturizers",
+    "price_usd": 32.4,
+    "original_price_usd": 40.5,
+    "rating": 4.5,
+    "review_count": 12,
+    "image_path": "prdtImg/1952/607586e7-25a1-419c-b490-a219c95b5249.jpg",
+    "skin_type": [],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250832683"
+  },
+  {
+    "id": "GA250832682",
+    "brand": "DERMALINE",
+    "name": "DERMALINE Bio Activing PDRN Eye Patch 60P",
+    "category": "Spot Care",
+    "parent_category": "Moisturizers",
+    "price_usd": 30.4,
+    "original_price_usd": 38.0,
+    "rating": 4.6,
+    "review_count": 5,
+    "image_path": "prdtImg/1974/ae37d8cc-5995-4266-8e33-86ff23e59acc.jpg",
+    "skin_type": [],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250832682"
+  },
+  {
+    "id": "GA250732244",
+    "brand": "S.NATURE",
+    "name": "S.NATURE Aqua Squalane Panthenol Eye Cream For Face Balm 25g",
+    "category": "Spot Care",
+    "parent_category": "Moisturizers",
+    "price_usd": 21.05,
+    "original_price_usd": 40.0,
+    "rating": 4.6,
+    "review_count": 63,
+    "image_path": "prdtImg/1653/4489d8a7-af5c-4669-a096-5c6043edd937.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [
+      "Squalene",
+      "Adenosine",
+      "Tocopherol (Vitamin E)",
+      "Panthenol"
+    ],
+    "formulation": [
+      "Cream"
+    ],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250732244"
+  },
+  {
+    "id": "GA211213057",
+    "brand": "ROUND LAB",
+    "name": "ROUND LAB 1025 Dokdo Cleanser 150mL",
+    "category": "Cleansing Foams",
+    "parent_category": "Cleansers",
+    "price_usd": 14.4,
+    "original_price_usd": 16.0,
+    "rating": 4.8,
+    "review_count": 1584,
+    "image_path": "prdtImg/1463/775aa344-b2a5-417d-ad91-468371331acd.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA211213057"
+  },
+  {
+    "id": "GA240724586",
+    "brand": "Anua",
+    "name": "Anua Heartleaf Quercetinol Pore Deep Cleansing Foam 150ml (+25ml)",
+    "category": "Cleansing Foams",
+    "parent_category": "Cleansers",
+    "price_usd": 12.53,
+    "original_price_usd": 13.0,
+    "rating": 4.8,
+    "review_count": 2396,
+    "image_path": "prdtImg/1145/dc96d64b-aa64-411f-9f7a-6e3442a79d21.png",
+    "skin_type": [
+      "Combination&Normal",
+      "Oily"
+    ],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA240724586"
+  },
+  {
+    "id": "GA250933345",
+    "brand": "ROUND LAB",
+    "name": "ROUND LAB Camellia Deep Collagen Firming Gel Mask Sheet 4ea+4ea",
+    "category": "Cleansing Foams",
+    "parent_category": "Cleansers",
+    "price_usd": 23.4,
+    "original_price_usd": 65.0,
+    "rating": 4.9,
+    "review_count": 23,
+    "image_path": "prdtImg/1839/e4ecb7d1-de28-4204-8961-aa6c6c5577a6.jpg",
+    "skin_type": [],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250933345"
+  },
+  {
+    "id": "GA220113371",
+    "brand": "SKIN1004",
+    "name": "SKIN1004 Madagascar Centella Ampoule Foam 125mL",
+    "category": "Cleansing Foams",
+    "parent_category": "Cleansers",
+    "price_usd": 15.0,
+    "original_price_usd": 15.0,
+    "rating": 4.8,
+    "review_count": 1329,
+    "image_path": "prdtImg/1043/c6e6f83b-710c-43d5-bd6d-37ab73c30dbc.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA220113371"
+  },
+  {
+    "id": "GA210001977",
+    "brand": "beplain",
+    "name": "beplain Mung Bean pH-Balanced Cleansing Foam 80ml",
+    "category": "Cleansing Foams",
+    "parent_category": "Cleansers",
+    "price_usd": 12.63,
+    "original_price_usd": 16.0,
+    "rating": 4.7,
+    "review_count": 646,
+    "image_path": "prdtImg/1462/f5aba34e-f723-42ba-8fae-bb040e4fc6d8.jpg",
+    "skin_type": [
+      "Combination&Normal",
+      "Sensitive"
+    ],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA210001977"
+  },
+  {
+    "id": "GA210610853",
+    "brand": "AESTURA",
+    "name": "AESTURA THERACNE 365 Clear Deep Cleansing Foam 200g",
+    "category": "Cleansing Foams",
+    "parent_category": "Cleansers",
+    "price_usd": 26.35,
+    "original_price_usd": 31.0,
+    "rating": 4.8,
+    "review_count": 56,
+    "image_path": "prdtImg/1418/55eeba31-d35b-4f78-b08a-00c14539444d.jpg",
+    "skin_type": [
+      "Combination&Normal",
+      "Sensitive"
+    ],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA210610853"
+  },
+  {
+    "id": "GA250933317",
+    "brand": "SKIN1004",
+    "name": "SKIN1004 Madagascar Centella Poremizing Deep Cleansing Foam 125ml",
+    "category": "Cleansing Foams",
+    "parent_category": "Cleansers",
+    "price_usd": 17.0,
+    "original_price_usd": 20.0,
+    "rating": 4.8,
+    "review_count": 36,
+    "image_path": "prdtImg/1557/486ccb2f-4ae3-4c4a-8f53-ab0c42ea5e4a.png",
+    "skin_type": [],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250933317"
+  },
+  {
+    "id": "GA250732197",
+    "brand": "Lagom",
+    "name": "Lagom Cellup Gel To Water Cleanser 170ml*2ea",
+    "category": "Cleansing Foams",
+    "parent_category": "Cleansers",
+    "price_usd": 29.72,
+    "original_price_usd": 35.0,
+    "rating": 4.8,
+    "review_count": 99,
+    "image_path": "prdtImg/1298/2ef82963-7313-4b30-ae08-9e76283eebdf.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250732197"
+  },
+  {
+    "id": "GA240523479",
+    "brand": "iUNIK",
+    "name": "iUNIK Centella Bubble Cleansing Foam 150ml",
+    "category": "Cleansing Foams",
+    "parent_category": "Cleansers",
+    "price_usd": 14.4,
+    "original_price_usd": 18.0,
+    "rating": 4.8,
+    "review_count": 47,
+    "image_path": "prdtImg/1339/e248daed-2aa9-4659-abdb-dc86c9334c07.jpg",
+    "skin_type": [],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA240523479"
+  },
+  {
+    "id": "GA260237389",
+    "brand": "ma:nyo",
+    "name": "ma:nyo Pure Cleansing Oil 200ml x 2ea (+25ml)",
+    "category": "Cleansing Balms & Oils",
+    "parent_category": "Cleansers",
+    "price_usd": 43.0,
+    "original_price_usd": 43.0,
+    "rating": 4.8,
+    "review_count": 70,
+    "image_path": "prdtImg/1963/f7cc7af4-2015-494d-b085-c2f2c13fd090.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA260237389"
+  },
+  {
+    "id": "GA210000733",
+    "brand": "ma:nyo",
+    "name": "ma:nyo Pure Cleansing Oil 200ml",
+    "category": "Cleansing Balms & Oils",
+    "parent_category": "Cleansers",
+    "price_usd": 21.8,
+    "original_price_usd": 28.0,
+    "rating": 4.7,
+    "review_count": 470,
+    "image_path": "prdtImg/1303/c56690a8-a3c1-48d2-865c-c0ddb570bda3.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA210000733"
+  },
+  {
+    "id": "GA221016518",
+    "brand": "Anua",
+    "name": "Anua Heartleaf Pore Control Cleansing Oil 200mL",
+    "category": "Cleansing Balms & Oils",
+    "parent_category": "Cleansers",
+    "price_usd": 21.0,
+    "original_price_usd": 28.0,
+    "rating": 4.6,
+    "review_count": 1917,
+    "image_path": "prdtImg/1705/fbc70961-a0d3-4fbb-acb9-5050ed1251a4.png",
+    "skin_type": [
+      "Combination&Normal",
+      "Sensitive"
+    ],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA221016518"
+  },
+  {
+    "id": "GA240322770",
+    "brand": "BANILA CO",
+    "name": "BANILA CO Clean It Zero Pore Clarifying Cleansing Balm 100mL",
+    "category": "Cleansing Balms & Oils",
+    "parent_category": "Cleansers",
+    "price_usd": 15.6,
+    "original_price_usd": 20.0,
+    "rating": 4.9,
+    "review_count": 113,
+    "image_path": "prdtImg/1124/5a9b4c2c-df02-49e7-9167-e29c95e9cfab.jpg",
+    "skin_type": [
+      "Combination&Normal",
+      "Oily",
+      "Sensitive"
+    ],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA240322770"
+  },
+  {
+    "id": "GA240724545",
+    "brand": "Dr.G",
+    "name": "Dr.G Green Deep Pore Cleansing Balm 100g",
+    "category": "Cleansing Balms & Oils",
+    "parent_category": "Cleansers",
+    "price_usd": 15.0,
+    "original_price_usd": 24.0,
+    "rating": 4.7,
+    "review_count": 391,
+    "image_path": "prdtImg/1316/b3945497-3563-444c-a572-877662bbe3b6.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA240724545"
+  },
+  {
+    "id": "GA221016542",
+    "brand": "dear, klairs",
+    "name": "dear, klairs Gentle Black Fresh Cleansing Oil 150mL",
+    "category": "Cleansing Balms & Oils",
+    "parent_category": "Cleansers",
+    "price_usd": 22.0,
+    "original_price_usd": 22.0,
+    "rating": 4.7,
+    "review_count": 29,
+    "image_path": "prdtImg/1642/d8ab7937-1736-4a7c-8567-51908ccf9642.jpg",
+    "skin_type": [
+      "Combination&Normal",
+      "Oily"
+    ],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA221016542"
+  },
+  {
+    "id": "GA240423052",
+    "brand": "Beauty of Joseon",
+    "name": "Beauty of Joseon Ginseng Cleansing Oil 210mL",
+    "category": "Cleansing Balms & Oils",
+    "parent_category": "Cleansers",
+    "price_usd": 16.0,
+    "original_price_usd": 20.0,
+    "rating": 4.6,
+    "review_count": 221,
+    "image_path": "prdtImg/1580/7255d99d-cb07-4d5e-a228-1287334c7758.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA240423052"
+  },
+  {
+    "id": "GA231020697",
+    "brand": "Anua",
+    "name": "Anua Heartleaf Pore Control Cleansing Oil 350mL",
+    "category": "Cleansing Balms & Oils",
+    "parent_category": "Cleansers",
+    "price_usd": 27.16,
+    "original_price_usd": 38.33,
+    "rating": 4.7,
+    "review_count": 761,
+    "image_path": "prdtImg/1089/db19571f-d137-4551-a975-936530dd8fab.png",
+    "skin_type": [
+      "Combination&Normal",
+      "Sensitive"
+    ],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA231020697"
+  },
+  {
+    "id": "GA241126705",
+    "brand": "medicube",
+    "name": "medicube Super Cica Deep Cleansing Balm 100ml",
+    "category": "Cleansing Balms & Oils",
+    "parent_category": "Cleansers",
+    "price_usd": 26.39,
+    "original_price_usd": 39.0,
+    "rating": 4.9,
+    "review_count": 20,
+    "image_path": "prdtImg/1119/e1ce6679-fb8d-4db5-acca-3a5e253d126c.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA241126705"
+  },
+  {
+    "id": "GA210610740",
+    "brand": "Dr.G",
+    "name": "Dr.G Green Deep Cleansing Oil 310 mL",
+    "category": "Cleansing Balms & Oils",
+    "parent_category": "Cleansers",
+    "price_usd": 25.6,
+    "original_price_usd": 32.0,
+    "rating": 4.7,
+    "review_count": 74,
+    "image_path": "prdtImg/1840/301c99c1-bd31-4192-9d70-76dd778213a6.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA210610740"
+  },
+  {
+    "id": "GA240724580",
+    "brand": "beplain",
+    "name": "beplain Mung Bean Pore Grinding Cleansing Balm 100ml",
+    "category": "Cleansing Balms & Oils",
+    "parent_category": "Cleansers",
+    "price_usd": 23.72,
+    "original_price_usd": 31.0,
+    "rating": 4.5,
+    "review_count": 98,
+    "image_path": "prdtImg/1315/ad2e8eb4-402e-4e41-a6c0-e16b414256bb.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA240724580"
+  },
+  {
+    "id": "GA250833085",
+    "brand": "medicube",
+    "name": "medicube Zero Pore Blackhead Deep Cleansing Oil 205ml",
+    "category": "Cleansing Balms & Oils",
+    "parent_category": "Cleansers",
+    "price_usd": 23.0,
+    "original_price_usd": 23.0,
+    "rating": 4.7,
+    "review_count": 55,
+    "image_path": "prdtImg/1724/d9016142-ed30-4bf8-9cd3-029054ad2bb8.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250833085"
+  },
+  {
+    "id": "GA220414391",
+    "brand": "numbuzin",
+    "name": "numbuzin No. 1 Easy Peasy Cleansing Oil 400mL Jumbo Size",
+    "category": "Cleansing Balms & Oils",
+    "parent_category": "Cleansers",
+    "price_usd": 21.48,
+    "original_price_usd": 32.0,
+    "rating": 4.7,
+    "review_count": 653,
+    "image_path": "prdtImg/1165/52a07e38-ced4-4285-a1f9-c0e87fad2ee2.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA220414391"
+  },
+  {
+    "id": "GA220715371",
+    "brand": "Beauty of Joseon",
+    "name": "Beauty of Joseon Radiance Cleansing Balm 100mL",
+    "category": "Cleansing Balms & Oils",
+    "parent_category": "Cleansers",
+    "price_usd": 10.4,
+    "original_price_usd": 13.0,
+    "rating": 4.8,
+    "review_count": 881,
+    "image_path": "prdtImg/1519/5a81936d-44a5-4f87-9e4a-558e2c1ab1a9.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA220715371"
+  },
+  {
+    "id": "GA250127864",
+    "brand": "beplain",
+    "name": "beplain Mung Bean Pore Cleansing Milk Balm 100ml",
+    "category": "Cleansing Balms & Oils",
+    "parent_category": "Cleansers",
+    "price_usd": 19.6,
+    "original_price_usd": 29.0,
+    "rating": 4.9,
+    "review_count": 184,
+    "image_path": "prdtImg/1302/e717053a-ec3e-4880-93f8-74bd532ea7e2.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250127864"
+  },
+  {
+    "id": "GA241227128",
+    "brand": "Heimish",
+    "name": "heimish All Clean Balm 120ml (+20ml)",
+    "category": "Cleansing Balms & Oils",
+    "parent_category": "Cleansers",
+    "price_usd": 18.9,
+    "original_price_usd": 21.0,
+    "rating": 4.9,
+    "review_count": 71,
+    "image_path": "prdtImg/1385/f4dcfd84-b01d-4fa0-be6e-995d6c80270e.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA241227128"
+  },
+  {
+    "id": "GA250933383",
+    "brand": "Arencia",
+    "name": "Arencia Pore Melt Mochi Cleansing Oil 200ml",
+    "category": "Cleansing Balms & Oils",
+    "parent_category": "Cleansers",
+    "price_usd": 18.0,
+    "original_price_usd": 20.0,
+    "rating": 4.9,
+    "review_count": 42,
+    "image_path": "prdtImg/1463/79ff7626-dc68-4f97-b6c5-276548f41215.jpg",
+    "skin_type": [],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250933383"
+  },
+  {
+    "id": "GA260439229",
+    "brand": "Bioderma",
+    "name": "Bioderma Sensibio H2O 850ml",
+    "category": "Cleansing Water",
+    "parent_category": "Cleansers",
+    "price_usd": 28.74,
+    "original_price_usd": 44.0,
+    "rating": 0.0,
+    "review_count": 0,
+    "image_path": "prdtImg/1992/61809292-9b48-48a9-92c3-7ff64967c54e.jpg",
+    "skin_type": [
+      "Combination&Normal",
+      "Sensitive"
+    ],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA260439229"
+  },
+  {
+    "id": "GA230518701",
+    "brand": "BRINGGREEN",
+    "name": "BRINGGREEN Tea Tree Cica Sensitive Cleansing Water 500mL",
+    "category": "Cleansing Water",
+    "parent_category": "Cleansers",
+    "price_usd": 12.46,
+    "original_price_usd": 19.0,
+    "rating": 4.7,
+    "review_count": 120,
+    "image_path": "prdtImg/1020/9ff6e4c5-77a6-4a27-8edc-2f8013cd1a07.jpg",
+    "skin_type": [
+      "Combination&Normal",
+      "Sensitive"
+    ],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA230518701"
+  },
+  {
+    "id": "GA250732585",
+    "brand": "Acwell",
+    "name": "Acwell Licorice pH Balancing Cleansing Toner 300mL",
+    "category": "Cleansing Water",
+    "parent_category": "Cleansers",
+    "price_usd": 28.83,
+    "original_price_usd": 34.0,
+    "rating": 5.0,
+    "review_count": 27,
+    "image_path": "prdtImg/1134/5c5234dc-29b6-4710-8e47-dcc94ba91a28.jpg",
+    "skin_type": [],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250732585"
+  },
+  {
+    "id": "GA230819798",
+    "brand": "COSRX",
+    "name": "COSRX Low pH Niacinamide Micellar Cleansing Water 400mL",
+    "category": "Cleansing Water",
+    "parent_category": "Cleansers",
+    "price_usd": 13.72,
+    "original_price_usd": 15.0,
+    "rating": 4.8,
+    "review_count": 105,
+    "image_path": "prdtImg/1022/0a7477df-851c-4303-b2b9-77fe51916021.jpg",
+    "skin_type": [
+      "Combination&Normal",
+      "Sensitive"
+    ],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA230819798"
+  },
+  {
+    "id": "GA221116639",
+    "brand": "REJURAN",
+    "name": "REJURAN Derma Healer Moisture Bubble Cleansing Water 150mL",
+    "category": "Cleansing Water",
+    "parent_category": "Cleansers",
+    "price_usd": 19.6,
+    "original_price_usd": 28.0,
+    "rating": 4.9,
+    "review_count": 47,
+    "image_path": "prdtImg/1202/7ce3b092-428c-4cbb-b95c-9e45dc2a9540.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA221116639"
+  },
+  {
+    "id": "GA230619354",
+    "brand": "THE SAEM",
+    "name": "THE SAEM Natural Condition Sparkling Cleansing Water 500mL",
+    "category": "Cleansing Water",
+    "parent_category": "Cleansers",
+    "price_usd": 18.0,
+    "original_price_usd": 18.0,
+    "rating": 4.8,
+    "review_count": 43,
+    "image_path": "prdtImg/1200/793d6688-21b2-4863-876f-fce414333da9.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA230619354"
+  },
+  {
+    "id": "GA240523452",
+    "brand": "ma:nyo",
+    "name": "ma:nyo Pure Cleansing Water Sensitive 55ml",
+    "category": "Cleansing Water",
+    "parent_category": "Cleansers",
+    "price_usd": 4.26,
+    "original_price_usd": 6.0,
+    "rating": 4.6,
+    "review_count": 55,
+    "image_path": "prdtImg/1786/ee4f4f46-06cc-4d6f-848c-6887059a293b.jpg",
+    "skin_type": [
+      "Sensitive"
+    ],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA240523452"
+  },
+  {
+    "id": "GA251236146",
+    "brand": "Lagom",
+    "name": "Lagom Cellup Micro Cleansing Water 350ml",
+    "category": "Cleansing Water",
+    "parent_category": "Cleansers",
+    "price_usd": 21.0,
+    "original_price_usd": 21.0,
+    "rating": 0.0,
+    "review_count": 0,
+    "image_path": "prdtImg/1157/b752e483-0061-47f5-8a20-8d31aac54d2c.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA251236146"
+  },
+  {
+    "id": "GA250732417",
+    "brand": "Torriden",
+    "name": "Torriden Dive-In Low Molecular Hyaluronic Acid Cleansing Water 400ml (RENEWAL)",
+    "category": "Cleansing Water",
+    "parent_category": "Cleansers",
+    "price_usd": 16.8,
+    "original_price_usd": 24.0,
+    "rating": 4.6,
+    "review_count": 26,
+    "image_path": "prdtImg/1894/e7373484-f8bd-4eed-8a28-3a7438c5a122.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250732417"
+  },
+  {
+    "id": "GA250329461",
+    "brand": "APLB",
+    "name": "APLB Glutathione Niacinamide Cleansing Water 160ml",
+    "category": "Cleansing Water",
+    "parent_category": "Cleansers",
+    "price_usd": 11.38,
+    "original_price_usd": 20.0,
+    "rating": 4.9,
+    "review_count": 14,
+    "image_path": "prdtImg/1164/368d659d-6965-4397-8d52-e132727e99d2.jpg",
+    "skin_type": [],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250329461"
+  },
+  {
+    "id": "GA240724581",
+    "brand": "beplain",
+    "name": "beplain Mung Bean Cleansing Water 400ml",
+    "category": "Cleansing Water",
+    "parent_category": "Cleansers",
+    "price_usd": 15.6,
+    "original_price_usd": 26.0,
+    "rating": 4.8,
+    "review_count": 35,
+    "image_path": "prdtImg/1836/18c6cb43-85d8-4d51-bc90-5953f565ced6.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA240724581"
+  },
+  {
+    "id": "GA240724542",
+    "brand": "Dr.Belmeur",
+    "name": "Dr.Belmeur Amino Clear Cleansing Water 300ml",
+    "category": "Cleansing Water",
+    "parent_category": "Cleansers",
+    "price_usd": 20.0,
+    "original_price_usd": 20.0,
+    "rating": 4.7,
+    "review_count": 15,
+    "image_path": "prdtImg/1648/20c03568-f53a-4843-857a-c5cd347f4c9f.jpg",
+    "skin_type": [
+      "Combination&Normal",
+      "Sensitive"
+    ],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA240724542"
+  },
+  {
+    "id": "GA240222277",
+    "brand": "HYAAH",
+    "name": "HYAAH Mild But Deep Cleansing Water 300mL",
+    "category": "Cleansing Water",
+    "parent_category": "Cleansers",
+    "price_usd": 35.0,
+    "original_price_usd": 35.0,
+    "rating": 4.9,
+    "review_count": 7,
+    "image_path": "prdtImg/1292/929d3934-e3a8-438d-94dc-b23487e0a3b1.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA240222277"
+  },
+  {
+    "id": "GA221016522",
+    "brand": "Acwell",
+    "name": "Acwell Licorice pH Balancing Cleansing Toner 150mL",
+    "category": "Cleansing Water",
+    "parent_category": "Cleansers",
+    "price_usd": 22.5,
+    "original_price_usd": 25.0,
+    "rating": 4.8,
+    "review_count": 89,
+    "image_path": "prdtImg/1276/f70206ec-e6ba-4490-be54-3e24cff5fddf.jpg",
+    "skin_type": [
+      "Combination&Normal",
+      "Sensitive"
+    ],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA221016522"
+  },
+  {
+    "id": "GA210510388",
+    "brand": "Cell Fusion C",
+    "name": "Cell Fusion C Low pH pHarrier Cleaning Water 500ml",
+    "category": "Cleansing Water",
+    "parent_category": "Cleansers",
+    "price_usd": 16.21,
+    "original_price_usd": 28.0,
+    "rating": 4.6,
+    "review_count": 34,
+    "image_path": "prdtImg/1879/ee51cc10-31ab-460f-bf13-3bd0a5335ad7.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA210510388"
+  },
+  {
+    "id": "GA240825057",
+    "brand": "ma:nyo",
+    "name": "ma:nyo Pure Cleansing Water Sensitive 500ml (+Pump+Cotton Pad 20P)",
+    "category": "Cleansing Water",
+    "parent_category": "Cleansers",
+    "price_usd": 17.43,
+    "original_price_usd": 33.0,
+    "rating": 4.6,
+    "review_count": 86,
+    "image_path": "prdtImg/1689/873719a6-2c27-4142-a78f-467bed37c5f6.jpg",
+    "skin_type": [
+      "Combination&Normal",
+      "Sensitive"
+    ],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA240825057"
+  },
+  {
+    "id": "GA240222403",
+    "brand": "THE FACE SHOP",
+    "name": "THE FACE SHOP Rice Water Bright Mild Cleansing Water 500mL",
+    "category": "Cleansing Water",
+    "parent_category": "Cleansers",
+    "price_usd": 19.0,
+    "original_price_usd": 19.0,
+    "rating": 4.9,
+    "review_count": 16,
+    "image_path": "prdtImg/1907/5aba7294-1c3e-4c4a-aa10-0f028339e39a.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA240222403"
+  },
+  {
+    "id": "GA250329446",
+    "brand": "papa recipe",
+    "name": "papa recipe Real Centella Cica Watery Cleansing Tissue 100P",
+    "category": "Cleansing Wipes",
+    "parent_category": "Cleansers",
+    "price_usd": 8.4,
+    "original_price_usd": 12.0,
+    "rating": 4.6,
+    "review_count": 5,
+    "image_path": "prdtImg/1319/1f10e05a-08de-44a4-88d5-c0658a0de9f7.jpg",
+    "skin_type": [
+      "Combination&Normal",
+      "Sensitive"
+    ],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250329446"
+  },
+  {
+    "id": "GA241126639",
+    "brand": "POINT&",
+    "name": "POINT& Deep Clean All Kill Makeup Cleansing Tissue 100P",
+    "category": "Cleansing Wipes",
+    "parent_category": "Cleansers",
+    "price_usd": 6.93,
+    "original_price_usd": 14.0,
+    "rating": 4.7,
+    "review_count": 59,
+    "image_path": "prdtImg/1018/11de14ed-746e-4f4d-a460-cd6030945399.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA241126639"
+  },
+  {
+    "id": "GA210911788",
+    "brand": "beplain",
+    "name": "beplain Greenful pH-Balanced Facial Cleansing Wipes 20 Sheets",
+    "category": "Cleansing Wipes",
+    "parent_category": "Cleansers",
+    "price_usd": 6.0,
+    "original_price_usd": 6.0,
+    "rating": 4.7,
+    "review_count": 124,
+    "image_path": "prdtImg/1864/c4cc7435-ea02-4227-9fd5-9637545039c1.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA210911788"
+  },
+  {
+    "id": "GA251034267",
+    "brand": "Dewytree",
+    "name": "Dewytree Pick And Quick Cleansing Big Pad 60P",
+    "category": "Cleansing Wipes",
+    "parent_category": "Cleansers",
+    "price_usd": 20.3,
+    "original_price_usd": 27.0,
+    "rating": 5.0,
+    "review_count": 1,
+    "image_path": "prdtImg/1257/b266e605-f0d4-4c52-ac7b-bdfb9927ab43.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA251034267"
+  },
+  {
+    "id": "GA251034264",
+    "brand": "POINT&",
+    "name": "POINT& Vita Rose Multi Cleansing Pad 60P",
+    "category": "Cleansing Wipes",
+    "parent_category": "Cleansers",
+    "price_usd": 22.4,
+    "original_price_usd": 28.0,
+    "rating": 5.0,
+    "review_count": 1,
+    "image_path": "prdtImg/1793/01542415-adaf-4308-9374-316d1c7878c5.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA251034264"
+  },
+  {
+    "id": "GA250732488",
+    "brand": "celimax",
+    "name": "celimax Makeup Retouching Booster Pad 30P (RENEWAL)",
+    "category": "Cleansing Wipes",
+    "parent_category": "Cleansers",
+    "price_usd": 15.2,
+    "original_price_usd": 19.0,
+    "rating": 5.0,
+    "review_count": 4,
+    "image_path": "prdtImg/1619/59806a44-c1e4-455c-ab2b-0738eb8e1c83.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250732488"
+  },
+  {
+    "id": "GA250329416",
+    "brand": "Shingmulnara",
+    "name": "Shingmulnara Jeju Sparkling Water Deep Pore Cleansing Tissue 80P",
+    "category": "Cleansing Wipes",
+    "parent_category": "Cleansers",
+    "price_usd": 6.79,
+    "original_price_usd": 10.0,
+    "rating": 4.7,
+    "review_count": 16,
+    "image_path": "prdtImg/1577/a29fb109-2a37-45fb-9852-0c03bd7d8cdf.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250329416"
+  },
+  {
+    "id": "GA240825071",
+    "brand": "EDIT.B",
+    "name": "EDIT.B Joyfull Heart All In One Cleansing Pad 30P",
+    "category": "Cleansing Wipes",
+    "parent_category": "Cleansers",
+    "price_usd": 3.48,
+    "original_price_usd": 6.0,
+    "rating": 4.3,
+    "review_count": 21,
+    "image_path": "prdtImg/1194/72432a36-fd28-4809-895f-2bb1fbd9c302.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA240825071"
+  },
+  {
+    "id": "GA240623963",
+    "brand": "Meebak",
+    "name": "Meebak Cica Cleansing Water Pads 80P",
+    "category": "Cleansing Wipes",
+    "parent_category": "Cleansers",
+    "price_usd": 19.96,
+    "original_price_usd": 26.0,
+    "rating": 4.8,
+    "review_count": 52,
+    "image_path": "prdtImg/1188/771827a1-96ad-492f-8f66-e1a560bd7159.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA240623963"
+  },
+  {
+    "id": "GA240222201",
+    "brand": "THE FACE SHOP",
+    "name": "THE FACE SHOP Rice Water Bright Cleansing Wipes 50 Sheets",
+    "category": "Cleansing Wipes",
+    "parent_category": "Cleansers",
+    "price_usd": 11.0,
+    "original_price_usd": 11.0,
+    "rating": 4.6,
+    "review_count": 55,
+    "image_path": "prdtImg/1529/3e2f87f9-2607-4831-8f05-3492e91ef67b.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA240222201"
+  },
+  {
+    "id": "GA230619031",
+    "brand": "GOONGBE",
+    "name": "GOONGBE Mild Sun Cleansing Tissue 30P",
+    "category": "Cleansing Wipes",
+    "parent_category": "Cleansers",
+    "price_usd": 6.0,
+    "original_price_usd": 6.0,
+    "rating": 4.8,
+    "review_count": 9,
+    "image_path": "prdtImg/1145/a91d2bc4-872b-4c50-8d4c-edacc2bc11f9.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA230619031"
+  },
+  {
+    "id": "GA230618883",
+    "brand": "SRB",
+    "name": "SRB Stabilized Rice Bran Cleansing Pad 60P",
+    "category": "Cleansing Wipes",
+    "parent_category": "Cleansers",
+    "price_usd": 19.08,
+    "original_price_usd": 24.0,
+    "rating": 4.6,
+    "review_count": 5,
+    "image_path": "prdtImg/1743/ded7e59a-346c-4725-994c-48408b42c914.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA230618883"
+  },
+  {
+    "id": "GA230418296",
+    "brand": "Ariul",
+    "name": "Ariul The Perfect Cleansing Oil Pad EX 60 Sheets",
+    "category": "Cleansing Wipes",
+    "parent_category": "Cleansers",
+    "price_usd": 14.04,
+    "original_price_usd": 20.0,
+    "rating": 4.6,
+    "review_count": 94,
+    "image_path": "prdtImg/1330/1ff24609-22b5-437d-a08e-2b9a18fdbdc6.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA230418296"
+  },
+  {
+    "id": "GA220916252",
+    "brand": "OBgE",
+    "name": "OBgE One Step Pore Cleansing Sheet 135g 32 Sheets",
+    "category": "Cleansing Wipes",
+    "parent_category": "Cleansers",
+    "price_usd": 10.0,
+    "original_price_usd": 10.0,
+    "rating": 4.8,
+    "review_count": 5,
+    "image_path": "prdtImg/1268/c1662c4b-2208-4b23-82b7-b7c71110b1e4.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA220916252"
+  },
+  {
+    "id": "GA220815946",
+    "brand": "ma:nyo",
+    "name": "ma:nyo Pure Cleansing Tissue 80 Sheets",
+    "category": "Cleansing Wipes",
+    "parent_category": "Cleansers",
+    "price_usd": 17.0,
+    "original_price_usd": 17.0,
+    "rating": 4.8,
+    "review_count": 61,
+    "image_path": "prdtImg/1120/e7a3a552-37ea-4f26-8300-39bbb8a861e6.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA220815946"
+  },
+  {
+    "id": "GA220715414",
+    "brand": "Shingmulnara",
+    "name": "Shingmulnara Jeju Sparkling Water Quick & Deep Cleansing Tissue 20 Sheets",
+    "category": "Cleansing Wipes",
+    "parent_category": "Cleansers",
+    "price_usd": 2.45,
+    "original_price_usd": 3.0,
+    "rating": 4.7,
+    "review_count": 114,
+    "image_path": "prdtImg/1033/cd1ea2f5-3772-4145-8140-474da5745e07.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA220715414"
+  },
+  {
+    "id": "GA220414334",
+    "brand": "Ariul",
+    "name": "Ariul Apple Cider All Kill Cleansing Bubble Pads 60ea",
+    "category": "Cleansing Wipes",
+    "parent_category": "Cleansers",
+    "price_usd": 28.0,
+    "original_price_usd": 28.0,
+    "rating": 4.9,
+    "review_count": 19,
+    "image_path": "prdtImg/1008/0d127836-b02a-4267-a72f-3e940994bc18.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA220414334"
+  },
+  {
+    "id": "GA211212967",
+    "brand": "KLAVUU",
+    "name": "KLAVUU Real Vegan Cleansing Pad 50 Sheets",
+    "category": "Cleansing Wipes",
+    "parent_category": "Cleansers",
+    "price_usd": 11.9,
+    "original_price_usd": 17.0,
+    "rating": 4.5,
+    "review_count": 12,
+    "image_path": "prdtImg/1354/907c97de-e3cb-419a-a1c1-bcfc4299a943.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA211212967"
+  },
+  {
+    "id": "GA210004525",
+    "brand": "ROUND LAB",
+    "name": "ROUND LAB Birch Juice Cleansing Pad Sheets",
+    "category": "Cleansing Wipes",
+    "parent_category": "Cleansers",
+    "price_usd": 18.28,
+    "original_price_usd": 27.0,
+    "rating": 4.7,
+    "review_count": 155,
+    "image_path": "prdtImg/1022/01cdf2c3-e0d2-474b-b48c-5b6f3a86e3d1.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA210004525"
+  },
+  {
+    "id": "GA210003285",
+    "brand": "Neogen",
+    "name": "Neogen Dermalogy Carrot Deep Clear Remover Oil Pad 60 Sheets",
+    "category": "Cleansing Wipes",
+    "parent_category": "Cleansers",
+    "price_usd": 17.37,
+    "original_price_usd": 25.0,
+    "rating": 4.2,
+    "review_count": 34,
+    "image_path": "prdtImg/1532/bc9f1764-64e4-4704-b782-72d4d7ea0538.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA210003285"
+  },
+  {
+    "id": "GA210002644",
+    "brand": "Keenoniks",
+    "name": "Keenoniks Camo Cleansing Pad 70 Sheets",
+    "category": "Cleansing Wipes",
+    "parent_category": "Cleansers",
+    "price_usd": 16.67,
+    "original_price_usd": 21.0,
+    "rating": 4.8,
+    "review_count": 55,
+    "image_path": "mig/prdtImg/2abf742ee4e19f8387383412808cddb1.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA210002644"
+  },
+  {
+    "id": "GA210000506",
+    "brand": "Nightingale",
+    "name": "Nightingale Daily Derma Cleansing Pads Mild 70 Sheets",
+    "category": "Cleansing Wipes",
+    "parent_category": "Cleansers",
+    "price_usd": 13.2,
+    "original_price_usd": 15.0,
+    "rating": 4.5,
+    "review_count": 17,
+    "image_path": "prdtImg/1009/ec9ff18c-36e0-45e1-90c7-07a88ea35f96.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA210000506"
+  },
+  {
+    "id": "GA210610725",
+    "brand": "ma:nyo",
+    "name": "Ma:nyo Blackhead Pure Cleansing Oil Kill-Pad 50 Pads",
+    "category": "Cleansing Wipes",
+    "parent_category": "Cleansers",
+    "price_usd": 19.2,
+    "original_price_usd": 24.0,
+    "rating": 4.6,
+    "review_count": 15,
+    "image_path": "prdtImg/1435/b7d80c0d-ca97-413d-bfd0-0d66f366b5b8.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA210610725"
+  },
+  {
+    "id": "GA210004194",
+    "brand": "makeprem",
+    "name": "Make P:rem Safe Me Relief Moisture Cleansing Milk (200ml/500ml)",
+    "category": "Cleansing Milk",
+    "parent_category": "Cleansers",
+    "price_usd": 28.0,
+    "original_price_usd": 28.0,
+    "rating": 4.6,
+    "review_count": 67,
+    "image_path": "prdtImg/1703/fcfbd63c-58fe-433c-a18c-103ef6645383.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA210004194"
+  },
+  {
+    "id": "GA251034281",
+    "brand": "JUMISO",
+    "name": "JUMISO D-Panthenol Barrier Soothing Cleansing Milk 300ml",
+    "category": "Cleansing Milk",
+    "parent_category": "Cleansers",
+    "price_usd": 24.75,
+    "original_price_usd": 33.0,
+    "rating": 4.6,
+    "review_count": 7,
+    "image_path": "prdtImg/1973/9b026e37-1537-4f7a-8686-2cbfd448208a.jpg",
+    "skin_type": [
+      "Oily"
+    ],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA251034281"
+  },
+  {
+    "id": "GA220414582",
+    "brand": "ROUND LAB",
+    "name": "ROUND LAB 1025 Dokdo Cleansing Milk 200mL",
+    "category": "Cleansing Milk",
+    "parent_category": "Cleansers",
+    "price_usd": 20.3,
+    "original_price_usd": 29.0,
+    "rating": 4.5,
+    "review_count": 88,
+    "image_path": "prdtImg/1399/90771db8-9f96-465e-aa53-62d7c302dca0.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA220414582"
+  },
+  {
+    "id": "GA220113183",
+    "brand": "makeprem",
+    "name": "makeprem Safe Me Relief Moisture Cleansing Milk 100mL",
+    "category": "Cleansing Milk",
+    "parent_category": "Cleansers",
+    "price_usd": 10.8,
+    "original_price_usd": 12.0,
+    "rating": 4.9,
+    "review_count": 84,
+    "image_path": "prdtImg/1835/ae409a57-378b-4efe-b6fd-832cff68c7b6.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA220113183"
+  },
+  {
+    "id": "GA260338496",
+    "brand": "Blanc Nature",
+    "name": "Blanc Nature 9X Heartleaf Bubble Cleansing Milk 150ml",
+    "category": "Cleansing Milk",
+    "parent_category": "Cleansers",
+    "price_usd": 34.0,
+    "original_price_usd": 34.0,
+    "rating": 0.0,
+    "review_count": 0,
+    "image_path": "prdtImg/1927/ee7d5fd4-cacf-4d50-b075-7b71c86a873a.jpg",
+    "skin_type": [
+      "Sensitive"
+    ],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA260338496"
+  },
+  {
+    "id": "GA251236147",
+    "brand": "ma:nyo",
+    "name": "Ma:nyo Pure Soybean Cleansing Milk 200ml",
+    "category": "Cleansing Milk",
+    "parent_category": "Cleansers",
+    "price_usd": 21.3,
+    "original_price_usd": 25.0,
+    "rating": 0.0,
+    "review_count": 0,
+    "image_path": "prdtImg/1020/1b958b98-6027-470d-98de-c22fde006eda.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA251236147"
+  },
+  {
+    "id": "GA251235884",
+    "brand": "BANILA CO",
+    "name": "BANILA CO Clean It Zero Calming Cleansing Milk 200ml",
+    "category": "Cleansing Milk",
+    "parent_category": "Cleansers",
+    "price_usd": 16.8,
+    "original_price_usd": 24.0,
+    "rating": 5.0,
+    "review_count": 4,
+    "image_path": "prdtImg/1659/b660fe40-5626-43c4-86c4-125a49877f7b.jpg",
+    "skin_type": [
+      "Sensitive"
+    ],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA251235884"
+  },
+  {
+    "id": "GA251034284",
+    "brand": "Torriden",
+    "name": "Torriden Dive In Cleansing Milk 200ml (+Cleansing Foam 30ml)",
+    "category": "Cleansing Milk",
+    "parent_category": "Cleansers",
+    "price_usd": 18.2,
+    "original_price_usd": 26.0,
+    "rating": 4.7,
+    "review_count": 35,
+    "image_path": "prdtImg/1084/8dd17867-b7cd-4474-a1f8-2c9a7a75f90f.jpg",
+    "skin_type": [
+      "Combination&Normal",
+      "Sensitive"
+    ],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA251034284"
+  },
+  {
+    "id": "GA250933318",
+    "brand": "SKIN1004",
+    "name": "SKIN1004 Madagascar Centella Hyalu-Cica Gentle Cleansing Milk 200ml",
+    "category": "Cleansing Milk",
+    "parent_category": "Cleansers",
+    "price_usd": 28.0,
+    "original_price_usd": 28.0,
+    "rating": 4.8,
+    "review_count": 21,
+    "image_path": "prdtImg/1587/b5190eed-aa66-4e73-aa6e-4001d208158a.png",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250933318"
+  },
+  {
+    "id": "GA250933290",
+    "brand": "JOODOC",
+    "name": "JOODOC Rose Gentle Cleansing Milk 250ml",
+    "category": "Cleansing Milk",
+    "parent_category": "Cleansers",
+    "price_usd": 37.4,
+    "original_price_usd": 44.0,
+    "rating": 4.0,
+    "review_count": 1,
+    "image_path": "prdtImg/1656/d2863eb3-6764-4671-8e64-1b7cfd7a5280.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250933290"
+  },
+  {
+    "id": "GA250732610",
+    "brand": "Barle",
+    "name": "Barle Yuja Milk In Gel 200ml",
+    "category": "Cleansing Milk",
+    "parent_category": "Cleansers",
+    "price_usd": 26.37,
+    "original_price_usd": 34.0,
+    "rating": 0.0,
+    "review_count": 0,
+    "image_path": "prdtImg/1891/8388a666-be16-4104-9a3f-d587e6d0ea33.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250732610"
+  },
+  {
+    "id": "GA250732202",
+    "brand": "ma:nyo",
+    "name": "Ma:nyo Pure Soybean Cleansing Milk 200ml (RENEWAL)",
+    "category": "Cleansing Milk",
+    "parent_category": "Cleansers",
+    "price_usd": 21.3,
+    "original_price_usd": 25.0,
+    "rating": 5.0,
+    "review_count": 9,
+    "image_path": "prdtImg/1886/6ea3d5ca-7268-426d-8958-c2f734c6aa3e.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250732202"
+  },
+  {
+    "id": "GA250732194",
+    "brand": "S.NATURE",
+    "name": "S.NATURE Aqua Rice Cleansing Milk 280ml",
+    "category": "Cleansing Milk",
+    "parent_category": "Cleansers",
+    "price_usd": 33.0,
+    "original_price_usd": 33.0,
+    "rating": 4.7,
+    "review_count": 15,
+    "image_path": "prdtImg/1004/b6155948-1ec8-4e47-abad-1daca75c2c99.jpg",
+    "skin_type": [
+      "Dry",
+      "Sensitive"
+    ],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250732194"
+  },
+  {
+    "id": "GA250530968",
+    "brand": "Torhop",
+    "name": "Torhop Proni Protein Cleansing Milk 200ml",
+    "category": "Cleansing Milk",
+    "parent_category": "Cleansers",
+    "price_usd": 21.7,
+    "original_price_usd": 28.0,
+    "rating": 4.7,
+    "review_count": 3,
+    "image_path": "prdtImg/1320/17e4a770-d07c-4fb1-b41a-733929e91da7.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250530968"
+  },
+  {
+    "id": "GA240222200",
+    "brand": "THE FACE SHOP",
+    "name": "THE FACE SHOP Rice Water Bright Facial Cleansing Cream 200mL",
+    "category": "Cleansing Milk",
+    "parent_category": "Cleansers",
+    "price_usd": 11.0,
+    "original_price_usd": 11.0,
+    "rating": 4.7,
+    "review_count": 28,
+    "image_path": "prdtImg/1615/3936f60e-5f9f-4006-ae32-46106515c761.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA240222200"
+  },
+  {
+    "id": "GA231221474",
+    "brand": "Dewytree",
+    "name": "Dewytree Hi Amino All Cleansing Milk 200mL",
+    "category": "Cleansing Milk",
+    "parent_category": "Cleansers",
+    "price_usd": 14.24,
+    "original_price_usd": 22.0,
+    "rating": 4.6,
+    "review_count": 47,
+    "image_path": "prdtImg/1066/c0cdf39d-3284-43e3-b923-c06a835196bb.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA231221474"
+  },
+  {
+    "id": "GA250430197",
+    "brand": "suisai",
+    "name": "suisai Beauty Clear Green Powder Wash",
+    "category": "Exfoliators",
+    "parent_category": "Cleansers",
+    "price_usd": 13.6,
+    "original_price_usd": 16.0,
+    "rating": 4.8,
+    "review_count": 5,
+    "image_path": "prdtImg/1737/7105783a-6300-4a24-ae86-a88a8e832e19.jpg",
+    "skin_type": [
+      "Sensitive"
+    ],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250430197"
+  },
+  {
+    "id": "GA250631834",
+    "brand": "Dr.Melaxin",
+    "name": "Dr.Melaxin Peel Shot Exfoliating Rice Ampoule 80ml (1 out of 2 options)",
+    "category": "Exfoliators",
+    "parent_category": "Cleansers",
+    "price_usd": 33.0,
+    "original_price_usd": 33.0,
+    "rating": 4.5,
+    "review_count": 34,
+    "image_path": "prdtImg/1741/e44d7c4f-a986-4a91-be9b-0b6e4a9289c0.png",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250631834"
+  },
+  {
+    "id": "GA240322800",
+    "brand": "OBgE",
+    "name": "OBge Blackhead Scrub Balm 20g",
+    "category": "Exfoliators",
+    "parent_category": "Cleansers",
+    "price_usd": 15.21,
+    "original_price_usd": 21.0,
+    "rating": 4.6,
+    "review_count": 11,
+    "image_path": "prdtImg/1097/ddd1910a-62dd-4342-bddc-7bf8702ebc05.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA240322800"
+  },
+  {
+    "id": "GA250228378",
+    "brand": "I'm from",
+    "name": "I&rsquo;m from Fig Enzyme Powder Cleanser 50g",
+    "category": "Exfoliators",
+    "parent_category": "Cleansers",
+    "price_usd": 16.8,
+    "original_price_usd": 28.0,
+    "rating": 4.7,
+    "review_count": 51,
+    "image_path": "prdtImg/1777/48aaee69-0789-4226-9183-20a0b41a6c18.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250228378"
+  },
+  {
+    "id": "GA230820078",
+    "brand": "papa recipe",
+    "name": "papa recipe Tea Tree Control Enzyme Powder Cleanser 50g",
+    "category": "Exfoliators",
+    "parent_category": "Cleansers",
+    "price_usd": 16.8,
+    "original_price_usd": 21.0,
+    "rating": 4.7,
+    "review_count": 43,
+    "image_path": "prdtImg/1846/9f62eea4-41c8-4e94-8de7-6fb13180c9cd.jpg",
+    "skin_type": [
+      "Sensitive"
+    ],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA230820078"
+  },
+  {
+    "id": "GA250732087",
+    "brand": "medicube",
+    "name": "medicube Red Acne Succinic Acid Peel 40g",
+    "category": "Exfoliators",
+    "parent_category": "Cleansers",
+    "price_usd": 31.21,
+    "original_price_usd": 39.0,
+    "rating": 4.9,
+    "review_count": 14,
+    "image_path": "prdtImg/1265/64b639c3-a001-4cda-b104-7babfea953ff.jpg",
+    "skin_type": [
+      "Sensitive"
+    ],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250732087"
+  },
+  {
+    "id": "GA240423326",
+    "brand": "suisai",
+    "name": "suisai Beauty Clear Gold Powder Wash 32ea",
+    "category": "Exfoliators",
+    "parent_category": "Cleansers",
+    "price_usd": 31.0,
+    "original_price_usd": 31.0,
+    "rating": 4.9,
+    "review_count": 22,
+    "image_path": "prdtImg/1928/c52b02c6-d9f1-422a-92dd-e31bcc0ffe2b.jpg",
+    "skin_type": [
+      "Combination&Normal",
+      "Dry"
+    ],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA240423326"
+  },
+  {
+    "id": "GA251134798",
+    "brand": "Centellian24",
+    "name": "Centellian24 Madeca Matcha Toning Peeling Gel 150ml",
+    "category": "Exfoliators",
+    "parent_category": "Cleansers",
+    "price_usd": 24.03,
+    "original_price_usd": 32.0,
+    "rating": 4.9,
+    "review_count": 17,
+    "image_path": "prdtImg/1798/01528d0e-aa42-4797-a6cb-6748fbb85ed0.png",
+    "skin_type": [],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA251134798"
+  },
+  {
+    "id": "GA250430198",
+    "brand": "suisai",
+    "name": "suisai Beauty Clear Pink Powder Wash",
+    "category": "Exfoliators",
+    "parent_category": "Cleansers",
+    "price_usd": 16.0,
+    "original_price_usd": 16.0,
+    "rating": 5.0,
+    "review_count": 11,
+    "image_path": "prdtImg/1096/111033b2-69e6-4b40-ad2d-ae17f87fac82.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250430198"
+  },
+  {
+    "id": "GA210000004",
+    "brand": "Scinic",
+    "name": "Scinic Perfect Peeling Gommage Gel",
+    "category": "Exfoliators",
+    "parent_category": "Cleansers",
+    "price_usd": 10.0,
+    "original_price_usd": 10.0,
+    "rating": 4.7,
+    "review_count": 45,
+    "image_path": "prdtImg/1434/a3996946-4575-4467-99f2-17c12dbd233e.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA210000004"
+  },
+  {
+    "id": "GA240724712",
+    "brand": "TOCOBO",
+    "name": "TOCOBO Cica Calming Powder Wash 50g",
+    "category": "Exfoliators",
+    "parent_category": "Cleansers",
+    "price_usd": 17.6,
+    "original_price_usd": 22.0,
+    "rating": 4.9,
+    "review_count": 29,
+    "image_path": "prdtImg/1067/b5cef13a-6f24-4de8-8a05-2d3017cdc189.jpg",
+    "skin_type": [
+      "Combination&Normal",
+      "Sensitive"
+    ],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA240724712"
+  },
+  {
+    "id": "GA210510384",
+    "brand": "ma:nyo",
+    "name": "ma:nyo Galactomy Enzyme Peeling Gel 75ml (NEW)",
+    "category": "Exfoliators",
+    "parent_category": "Cleansers",
+    "price_usd": 17.55,
+    "original_price_usd": 18.0,
+    "rating": 4.8,
+    "review_count": 57,
+    "image_path": "prdtImg/1073/18028038-e7b5-46b7-aea0-c26fd6dc284c.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA210510384"
+  },
+  {
+    "id": "GA230518735",
+    "brand": "papa recipe",
+    "name": "papa recipe Blemish Enzyme Powder Cleanser",
+    "category": "Exfoliators",
+    "parent_category": "Cleansers",
+    "price_usd": 16.8,
+    "original_price_usd": 21.0,
+    "rating": 4.7,
+    "review_count": 294,
+    "image_path": "prdtImg/1267/722ac8c7-818d-4f34-ae69-36b91f9d3fd4.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA230518735"
+  },
+  {
+    "id": "GA260136639",
+    "brand": "Purito Seoul",
+    "name": "Purito Seoul Peel Shot Exfoliating Pad 8ea",
+    "category": "Exfoliators",
+    "parent_category": "Cleansers",
+    "price_usd": 16.0,
+    "original_price_usd": 20.0,
+    "rating": 4.3,
+    "review_count": 4,
+    "image_path": "prdtImg/1223/a349376b-69ac-45eb-83cf-da0b51a8cbad.png",
+    "skin_type": [],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA260136639"
+  },
+  {
+    "id": "GA260136483",
+    "brand": "May young",
+    "name": "May young Pore Repair Spicule Peeling Ampoule 50ml",
+    "category": "Exfoliators",
+    "parent_category": "Cleansers",
+    "price_usd": 26.4,
+    "original_price_usd": 44.0,
+    "rating": 5.0,
+    "review_count": 1,
+    "image_path": "prdtImg/1499/f503b474-3701-4414-b026-5d8c2aed4ac0.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA260136483"
+  },
+  {
+    "id": "GA251235753",
+    "brand": "NEEDLY",
+    "name": "NEEDLY Mild Enzyme Cleansing Powder 60g",
+    "category": "Exfoliators",
+    "parent_category": "Cleansers",
+    "price_usd": 17.6,
+    "original_price_usd": 22.0,
+    "rating": 5.0,
+    "review_count": 4,
+    "image_path": "prdtImg/1205/cc43c981-17ea-4c78-ba2d-478d33cd7902.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA251235753"
+  },
+  {
+    "id": "GA251235654",
+    "brand": "ilso",
+    "name": "ilso No Problem Peeling Swab 4g 1P",
+    "category": "Exfoliators",
+    "parent_category": "Cleansers",
+    "price_usd": 2.68,
+    "original_price_usd": 3.0,
+    "rating": 4.3,
+    "review_count": 3,
+    "image_path": "prdtImg/1729/3beeefd9-b931-45fe-96c2-15d16c461fee.jpg",
+    "skin_type": [],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA251235654"
+  },
+  {
+    "id": "GA251034278",
+    "brand": "ilso",
+    "name": "Ilso No Problem Peeling Swab 4g*8P",
+    "category": "Exfoliators",
+    "parent_category": "Cleansers",
+    "price_usd": 14.4,
+    "original_price_usd": 18.0,
+    "rating": 4.8,
+    "review_count": 10,
+    "image_path": "prdtImg/1355/7d51963a-b0d8-4a65-a762-0a2910cbbcf4.jpg",
+    "skin_type": [],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA251034278"
+  },
+  {
+    "id": "GA250933445",
+    "brand": "House of Dohwa",
+    "name": "House of Dohwa Rice Bran Powder Wash 60g",
+    "category": "Exfoliators",
+    "parent_category": "Cleansers",
+    "price_usd": 31.5,
+    "original_price_usd": 35.0,
+    "rating": 5.0,
+    "review_count": 4,
+    "image_path": "prdtImg/1709/388f8df1-e977-49b1-9a2b-667f7109b28f.jpg",
+    "skin_type": [],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250933445"
+  },
+  {
+    "id": "GA250832846",
+    "brand": "iUNIK",
+    "name": "iUNIK Lime Moisture Mild Peeling Gel 90ml",
+    "category": "Exfoliators",
+    "parent_category": "Cleansers",
+    "price_usd": 11.2,
+    "original_price_usd": 14.0,
+    "rating": 0.0,
+    "review_count": 0,
+    "image_path": "prdtImg/1067/cc6d4e28-6ef6-4da0-a1ec-efbe7de800b3.jpg",
+    "skin_type": [],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250832846"
+  },
+  {
+    "id": "GA250832773",
+    "brand": "Purito Seoul",
+    "name": "Purito Seoul Exfoliating Face Cleanser 150ml",
+    "category": "Exfoliators",
+    "parent_category": "Cleansers",
+    "price_usd": 26.4,
+    "original_price_usd": 33.0,
+    "rating": 4.8,
+    "review_count": 12,
+    "image_path": "prdtImg/1888/e5bd0c79-caf5-4b8c-a68e-8a14d6a19376.png",
+    "skin_type": [],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250832773"
+  },
+  {
+    "id": "GA250732606",
+    "brand": "Dr.Ceuracle",
+    "name": "Dr.Ceuracle Pro Balance Night Enzyme Wash 50g",
+    "category": "Exfoliators",
+    "parent_category": "Cleansers",
+    "price_usd": 29.75,
+    "original_price_usd": 35.0,
+    "rating": 5.0,
+    "review_count": 3,
+    "image_path": "prdtImg/1261/d6d76d42-a55e-4c74-bb64-4704e8a7d5ea.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250732606"
+  },
+  {
+    "id": "GA250732605",
+    "brand": "Dr.Ceuracle",
+    "name": "Dr.Ceuracle Pro Balance Morning Enzyme Wash 50g",
+    "category": "Exfoliators",
+    "parent_category": "Cleansers",
+    "price_usd": 28.05,
+    "original_price_usd": 33.0,
+    "rating": 0.0,
+    "review_count": 0,
+    "image_path": "prdtImg/1451/e58ce831-18d4-4dc7-b0aa-b6b0ad74f78e.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250732605"
+  },
+  {
+    "id": "GA250732598",
+    "brand": "Dr.G",
+    "name": "Dr. G Brightening Peeling Gel 60g",
+    "category": "Exfoliators",
+    "parent_category": "Cleansers",
+    "price_usd": 13.39,
+    "original_price_usd": 20.1,
+    "rating": 4.7,
+    "review_count": 63,
+    "image_path": "prdtImg/1609/bf864933-69fb-4e42-a3b1-bfbd63880f42.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250732598"
+  },
+  {
+    "id": "GA250732589",
+    "brand": "thelavicos",
+    "name": "thelavicos Charcoal Enzyme Washing Powder 40g",
+    "category": "Exfoliators",
+    "parent_category": "Cleansers",
+    "price_usd": 17.13,
+    "original_price_usd": 27.0,
+    "rating": 0.0,
+    "review_count": 0,
+    "image_path": "prdtImg/1453/9ed42fcb-82b8-4e12-b175-86d2c9086088.jpg",
+    "skin_type": [
+      "Oily"
+    ],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250732589"
+  },
+  {
+    "id": "GA231221289",
+    "brand": "ILLIYOON",
+    "name": "ILLIYOON Fresh Moisture Lip & Eye Remover 300mL",
+    "category": "Makeup Remover",
+    "parent_category": "Cleansers",
+    "price_usd": 28.0,
+    "original_price_usd": 28.0,
+    "rating": 4.8,
+    "review_count": 89,
+    "image_path": "prdtImg/1367/a0757b3f-5eb9-4968-bff1-7020a8816191.jpg",
+    "skin_type": [],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA231221289"
+  },
+  {
+    "id": "GA250631833",
+    "brand": "ETUDE",
+    "name": "ETUDE Lip & Eye Remover 250ml (RENEWAL)",
+    "category": "Makeup Remover",
+    "parent_category": "Cleansers",
+    "price_usd": 16.0,
+    "original_price_usd": 16.0,
+    "rating": 4.4,
+    "review_count": 8,
+    "image_path": "prdtImg/1244/f89e7aa5-9393-4078-b931-f1b8b2f550b2.jpg",
+    "skin_type": [],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250631833"
+  },
+  {
+    "id": "GA250429891",
+    "brand": "BANILA CO",
+    "name": "BANILA CO Clean It Zero Lip & Eye Remover 300ml",
+    "category": "Makeup Remover",
+    "parent_category": "Cleansers",
+    "price_usd": 13.6,
+    "original_price_usd": 16.0,
+    "rating": 4.9,
+    "review_count": 8,
+    "image_path": "prdtImg/1743/ba791b09-2dbe-485a-a1b9-0269a8cef337.jpg",
+    "skin_type": [],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250429891"
+  },
+  {
+    "id": "GA240121822",
+    "brand": "COSNORI",
+    "name": "COSNORI Long Active Mascara Remover 9g",
+    "category": "Makeup Remover",
+    "parent_category": "Cleansers",
+    "price_usd": 17.04,
+    "original_price_usd": 22.43,
+    "rating": 4.6,
+    "review_count": 70,
+    "image_path": "prdtImg/1356/d5348fbc-3042-4fe4-b22e-1e940c874b38.jpg",
+    "skin_type": [],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA240121822"
+  },
+  {
+    "id": "GA210002708",
+    "brand": "Ariul",
+    "name": "Ariul Stress Relieving Micellar Lip And Eye Remover (100ml/300ml)",
+    "category": "Makeup Remover",
+    "parent_category": "Cleansers",
+    "price_usd": 5.0,
+    "original_price_usd": 10.0,
+    "rating": 4.6,
+    "review_count": 312,
+    "image_path": "mig/prdtImg/1806df32a1c282dcba1aaaeb84f40c65.jpg",
+    "skin_type": [],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA210002708"
+  },
+  {
+    "id": "GA260338842",
+    "brand": "BANILA CO",
+    "name": "BANILA CO Clean It Zero Lip & Eye Remover 100ml",
+    "category": "Makeup Remover",
+    "parent_category": "Cleansers",
+    "price_usd": 8.0,
+    "original_price_usd": 8.0,
+    "rating": 0.0,
+    "review_count": 0,
+    "image_path": "prdtImg/1080/1c8baffb-0a15-4ace-8188-ac6fdd5e1d7d.jpg",
+    "skin_type": [],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA260338842"
+  },
+  {
+    "id": "GA250631832",
+    "brand": "ETUDE",
+    "name": "ETUDE Lip & Eye Remover 100ml (RENEWAL)",
+    "category": "Makeup Remover",
+    "parent_category": "Cleansers",
+    "price_usd": 9.0,
+    "original_price_usd": 9.0,
+    "rating": 4.7,
+    "review_count": 6,
+    "image_path": "prdtImg/1170/bd853602-1cb6-4333-86cb-46cb69f4de67.jpg",
+    "skin_type": [],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250631832"
+  },
+  {
+    "id": "GA250530707",
+    "brand": "ILLIYOON",
+    "name": "ILLIYOON Gentle Make Up Deep Lip & Eye Remover 140ml",
+    "category": "Makeup Remover",
+    "parent_category": "Cleansers",
+    "price_usd": 13.0,
+    "original_price_usd": 13.0,
+    "rating": 4.7,
+    "review_count": 28,
+    "image_path": "prdtImg/1828/1f353a3d-0ecc-4cae-8050-d170b4af2a77.jpg",
+    "skin_type": [],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250530707"
+  },
+  {
+    "id": "GA250430200",
+    "brand": "S.NATURE",
+    "name": "S.NATURE Aqua Rice Lip & Eye Remover 145ml",
+    "category": "Makeup Remover",
+    "parent_category": "Cleansers",
+    "price_usd": 13.06,
+    "original_price_usd": 19.0,
+    "rating": 4.7,
+    "review_count": 6,
+    "image_path": "prdtImg/1807/df21d8a9-d167-4d76-8ac5-cd4a87d66276.jpg",
+    "skin_type": [],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250430200"
+  },
+  {
+    "id": "GA250329464",
+    "brand": "BANILA CO",
+    "name": "BANILA CO Clean It Zero Soothing Lip & Eye Remover Pad 30P",
+    "category": "Makeup Remover",
+    "parent_category": "Cleansers",
+    "price_usd": 3.49,
+    "original_price_usd": 4.8,
+    "rating": 4.8,
+    "review_count": 87,
+    "image_path": "prdtImg/1238/e624a21a-34d3-46ed-8a31-81b2354db0d9.jpg",
+    "skin_type": [],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250329464"
+  },
+  {
+    "id": "GA250329418",
+    "brand": "Shingmulnara",
+    "name": "Shingmulnara Jeju Sparkling Water Deep Lip & Eye Remover 120ml",
+    "category": "Makeup Remover",
+    "parent_category": "Cleansers",
+    "price_usd": 6.26,
+    "original_price_usd": 8.0,
+    "rating": 4.5,
+    "review_count": 8,
+    "image_path": "prdtImg/1947/81824d51-6938-46c9-b0c0-be44e02ecbf8.jpg",
+    "skin_type": [],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250329418"
+  },
+  {
+    "id": "GA241227064",
+    "brand": "BANILA CO",
+    "name": "BANILA CO Clean It Zero Tint Remover 20ml",
+    "category": "Makeup Remover",
+    "parent_category": "Cleansers",
+    "price_usd": 5.25,
+    "original_price_usd": 7.0,
+    "rating": 4.9,
+    "review_count": 34,
+    "image_path": "prdtImg/1863/04bcda5b-59e0-44aa-880e-d4d6ccac4570.jpg",
+    "skin_type": [],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA241227064"
+  },
+  {
+    "id": "GA240724765",
+    "brand": "SKINFOOD",
+    "name": "SKINFOOD Milk Shake Point Make-up Remover 160ml",
+    "category": "Makeup Remover",
+    "parent_category": "Cleansers",
+    "price_usd": 8.4,
+    "original_price_usd": 12.0,
+    "rating": 4.5,
+    "review_count": 22,
+    "image_path": "prdtImg/1316/0d485035-8e08-4901-bb11-ae39381d6fd5.jpg",
+    "skin_type": [],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA240724765"
+  },
+  {
+    "id": "GA240523360",
+    "brand": "POND'S",
+    "name": "POND'S Clear Face Spa Lip & Eye Make-up Remover 300ml",
+    "category": "Makeup Remover",
+    "parent_category": "Cleansers",
+    "price_usd": 14.79,
+    "original_price_usd": 29.0,
+    "rating": 4.9,
+    "review_count": 98,
+    "image_path": "prdtImg/1128/e085e3b7-71ec-4d40-a864-3667a765bb70.jpg",
+    "skin_type": [],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA240523360"
+  },
+  {
+    "id": "GA240423292",
+    "brand": "Shingmulnara",
+    "name": "Shingmulnara Jeju Sparkling Water Quick Lip & Eye Remover 150ml",
+    "category": "Makeup Remover",
+    "parent_category": "Cleansers",
+    "price_usd": 7.16,
+    "original_price_usd": 11.0,
+    "rating": 4.2,
+    "review_count": 21,
+    "image_path": "prdtImg/1344/fb8f7d26-7d9a-4a25-a129-8c3b8e4e8d37.jpg",
+    "skin_type": [],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA240423292"
+  },
+  {
+    "id": "GA240121843",
+    "brand": "FRUDIA",
+    "name": "FRUDIA Re:proust Essential Deep Clean Lip & Eye Remover 300mL",
+    "category": "Makeup Remover",
+    "parent_category": "Cleansers",
+    "price_usd": 13.13,
+    "original_price_usd": 21.0,
+    "rating": 4.7,
+    "review_count": 6,
+    "image_path": "prdtImg/1113/a7122627-89f5-4c05-8666-9c2611946687.jpg",
+    "skin_type": [],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA240121843"
+  },
+  {
+    "id": "GA230719554",
+    "brand": "ETUDE",
+    "name": "ETUDE PPOYAN Lip and Eye Remover 250mL",
+    "category": "Makeup Remover",
+    "parent_category": "Cleansers",
+    "price_usd": 15.66,
+    "original_price_usd": 18.0,
+    "rating": 4.7,
+    "review_count": 41,
+    "image_path": "prdtImg/1523/ad40978f-8eb8-48e2-a388-4777ad1bca5d.jpg",
+    "skin_type": [],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA230719554"
+  },
+  {
+    "id": "GA230418174",
+    "brand": "COSNORI",
+    "name": "COSNORI Micro Active Lip & Eye Remover 100mL",
+    "category": "Makeup Remover",
+    "parent_category": "Cleansers",
+    "price_usd": 7.46,
+    "original_price_usd": 11.49,
+    "rating": 4.8,
+    "review_count": 11,
+    "image_path": "prdtImg/1356/e4ad43bc-92a7-46e3-a290-e2ad2f53853a.jpg",
+    "skin_type": [],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA230418174"
+  },
+  {
+    "id": "GA230117342",
+    "brand": "POND'S",
+    "name": "POND'S New Spa Lip & Eye Makeup Remover 120mL",
+    "category": "Makeup Remover",
+    "parent_category": "Cleansers",
+    "price_usd": 13.0,
+    "original_price_usd": 13.0,
+    "rating": 4.8,
+    "review_count": 174,
+    "image_path": "prdtImg/1180/fe526614-93a3-40e4-84af-cc4249bbf3b7.jpg",
+    "skin_type": [],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA230117342"
+  },
+  {
+    "id": "GA220615170",
+    "brand": "Shingmulnara",
+    "name": "Shingmulnara Jeju Sparkling Water Lip & Eye Remover Tissue (20ea)",
+    "category": "Makeup Remover",
+    "parent_category": "Cleansers",
+    "price_usd": 3.23,
+    "original_price_usd": 4.0,
+    "rating": 4.6,
+    "review_count": 15,
+    "image_path": "prdtImg/1720/cd6f4ada-460a-4fa0-8347-c2ca71464600.jpg",
+    "skin_type": [],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA220615170"
+  },
+  {
+    "id": "GA210811642",
+    "brand": "CAREZONE",
+    "name": "CAREZONE Doctor Solution Lip & Eye Remover 300mL",
+    "category": "Makeup Remover",
+    "parent_category": "Cleansers",
+    "price_usd": 18.0,
+    "original_price_usd": 18.0,
+    "rating": 4.6,
+    "review_count": 56,
+    "image_path": "prdtImg/1089/86bb330d-4670-4e10-ad9a-463c18cffa8a.jpg",
+    "skin_type": [],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA210811642"
+  },
+  {
+    "id": "GA210510436",
+    "brand": "ILLIYOON",
+    "name": "ILLIYOON Fresh Moisture Lip & Eye Remover 150ml",
+    "category": "Makeup Remover",
+    "parent_category": "Cleansers",
+    "price_usd": 9.21,
+    "original_price_usd": 14.0,
+    "rating": 4.7,
+    "review_count": 208,
+    "image_path": "prdtImg/1058/cb0b254d-68dc-45c1-be18-4434d176b0e8.jpg",
+    "skin_type": [],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA210510436"
+  },
+  {
+    "id": "GA250329366",
+    "brand": "CAREPLUS",
+    "name": "CAREPLUS Scar Cover Spot Patch 324P",
+    "category": "Acne & Blemish Treatments",
+    "parent_category": "Acne & Blemish",
+    "price_usd": 19.12,
+    "original_price_usd": 21.0,
+    "rating": 4.9,
+    "review_count": 835,
+    "image_path": "prdtImg/1317/f620b9b6-6cb1-42b9-950c-59170073cb6b.jpg",
+    "skin_type": [],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250329366"
+  },
+  {
+    "id": "GA250329361",
+    "brand": "CAREPLUS",
+    "name": "CAREPLUS Spot Cover Patch Calming 252P (RENEWAL)",
+    "category": "Acne & Blemish Treatments",
+    "parent_category": "Acne & Blemish",
+    "price_usd": 21.0,
+    "original_price_usd": 21.0,
+    "rating": 4.8,
+    "review_count": 63,
+    "image_path": "prdtImg/1162/fd16dc42-6b49-4b40-8d5d-3ca65f5ac558.jpg",
+    "skin_type": [],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250329361"
+  },
+  {
+    "id": "GA250329357",
+    "brand": "CAREPLUS",
+    "name": "CAREPLUS Zinc Trouble Micro-dot Patch 24P",
+    "category": "Acne & Blemish Treatments",
+    "parent_category": "Acne & Blemish",
+    "price_usd": 16.09,
+    "original_price_usd": 21.0,
+    "rating": 4.7,
+    "review_count": 119,
+    "image_path": "prdtImg/1921/81bbdba0-7557-473b-b0c7-61ef5880d4f1.jpg",
+    "skin_type": [],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250329357"
+  },
+  {
+    "id": "GA241026068",
+    "brand": "CAREPLUS",
+    "name": "Olive Young Care Plus Scar Cover Spot Patch 189 Counts",
+    "category": "Acne & Blemish Treatments",
+    "parent_category": "Acne & Blemish",
+    "price_usd": 13.0,
+    "original_price_usd": 13.0,
+    "rating": 4.9,
+    "review_count": 220,
+    "image_path": "prdtImg/1955/b498c4d5-7bcb-4492-adbc-59d73ffe6478.jpg",
+    "skin_type": [],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA241026068"
+  },
+  {
+    "id": "GA240624258",
+    "brand": "MARSHIQUE",
+    "name": "MARSHIQUE Wrinkle Repair Hydro-gel Patch (For Neck) 4P",
+    "category": "Acne & Blemish Treatments",
+    "parent_category": "Acne & Blemish",
+    "price_usd": 13.72,
+    "original_price_usd": 15.0,
+    "rating": 4.3,
+    "review_count": 113,
+    "image_path": "prdtImg/1968/45fe411b-ec94-4f47-855e-8ca520e00576.png",
+    "skin_type": [],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA240624258"
+  },
+  {
+    "id": "GA250228849",
+    "brand": "charde",
+    "name": "charde Eye Bag Lift 1100 Shot Patch",
+    "category": "Acne & Blemish Treatments",
+    "parent_category": "Acne & Blemish",
+    "price_usd": 18.2,
+    "original_price_usd": 26.0,
+    "rating": 4.8,
+    "review_count": 13,
+    "image_path": "prdtImg/1978/4870dba5-8070-4d85-a1a0-b1fdd53f44aa.jpg",
+    "skin_type": [],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250228849"
+  },
+  {
+    "id": "GA250933697",
+    "brand": "Easyderm Beauty",
+    "name": "Easyderm Beauty Quick-Calming Patch 8EA (+Cica Ampoule 5ml)",
+    "category": "Acne & Blemish Treatments",
+    "parent_category": "Acne & Blemish",
+    "price_usd": 15.58,
+    "original_price_usd": 18.0,
+    "rating": 4.6,
+    "review_count": 97,
+    "image_path": "prdtImg/1784/2d6bebea-e143-474c-acec-c4f0d7c13046.png",
+    "skin_type": [],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250933697"
+  },
+  {
+    "id": "GA250329365",
+    "brand": "CAREPLUS",
+    "name": "CAREPLUS Spot Cover Patch Calming 96P (RENEWAL)",
+    "category": "Acne & Blemish Treatments",
+    "parent_category": "Acne & Blemish",
+    "price_usd": 8.37,
+    "original_price_usd": 9.0,
+    "rating": 4.7,
+    "review_count": 170,
+    "image_path": "prdtImg/1787/f4136f4d-591d-4a9b-b903-f8c6763612b1.jpg",
+    "skin_type": [],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250329365"
+  },
+  {
+    "id": "GA250329364",
+    "brand": "CAREPLUS",
+    "name": "CAREPLUS Scar Cover Spot Patch 102P (RENEWAL)",
+    "category": "Acne & Blemish Treatments",
+    "parent_category": "Acne & Blemish",
+    "price_usd": 7.49,
+    "original_price_usd": 8.0,
+    "rating": 4.7,
+    "review_count": 547,
+    "image_path": "prdtImg/1899/a1d8f33a-7677-4e9e-ad11-27501453eb1a.jpg",
+    "skin_type": [],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250329364"
+  },
+  {
+    "id": "GS251135372",
+    "brand": "Easyderm Beauty",
+    "name": "Easyderm Beauty 3-Step Spot Healing Routine(beauty/relief/qiuck calming)",
+    "category": "Acne & Blemish Treatments",
+    "parent_category": "Acne & Blemish",
+    "price_usd": 23.99,
+    "original_price_usd": 23.99,
+    "rating": 4.7,
+    "review_count": 536,
+    "image_path": "prdtImg/1266/764e8c78-799f-4f50-b399-a2f0805992df.jpg",
+    "skin_type": [],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GS251135372"
+  },
+  {
+    "id": "GA230317940",
+    "brand": "MARSHIQUE",
+    "name": "MARSHIQUE Wrinkle Repair Patch (For Nasolabial Folds) 36P",
+    "category": "Acne & Blemish Treatments",
+    "parent_category": "Acne & Blemish",
+    "price_usd": 15.0,
+    "original_price_usd": 15.0,
+    "rating": 4.3,
+    "review_count": 244,
+    "image_path": "prdtImg/1684/89d44544-398b-41eb-a7f7-b3307b99e736.jpg",
+    "skin_type": [],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA230317940"
+  },
+  {
+    "id": "GA251235683",
+    "brand": "onslo",
+    "name": "onslo Wrinkle Patches For Frown Lines (27P/45P)",
+    "category": "Acne & Blemish Treatments",
+    "parent_category": "Acne & Blemish",
+    "price_usd": 10.61,
+    "original_price_usd": 13.0,
+    "rating": 3.7,
+    "review_count": 3,
+    "image_path": "prdtImg/1467/fdd2fa97-86d8-4d72-8f64-95db178210b9.jpg",
+    "skin_type": [],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA251235683"
+  },
+  {
+    "id": "GA250329359",
+    "brand": "CAREPLUS",
+    "name": "CAREPLUS Glutathione Whitening Micro-dot Patch 24P",
+    "category": "Acne & Blemish Treatments",
+    "parent_category": "Acne & Blemish",
+    "price_usd": 21.0,
+    "original_price_usd": 21.0,
+    "rating": 4.6,
+    "review_count": 73,
+    "image_path": "prdtImg/1293/8c7c6401-b048-4f0e-8c66-201d89f62e6c.jpg",
+    "skin_type": [],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250329359"
+  },
+  {
+    "id": "GA251135095",
+    "brand": "OOTD",
+    "name": "OOTD Twinkle Little Star Acne Spot Patch (80 Counts)",
+    "category": "Acne & Blemish Treatments",
+    "parent_category": "Acne & Blemish",
+    "price_usd": 12.05,
+    "original_price_usd": 15.2,
+    "rating": 4.7,
+    "review_count": 44,
+    "image_path": "prdtImg/1780/b25d3542-6488-4371-a0d8-395c1ca04f75.jpg",
+    "skin_type": [],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA251135095"
+  },
+  {
+    "id": "GA210000759",
+    "brand": "Easyderm Beauty",
+    "name": "Easyderm Beauty Patch 69EA",
+    "category": "Acne & Blemish Treatments",
+    "parent_category": "Acne & Blemish",
+    "price_usd": 12.67,
+    "original_price_usd": 15.0,
+    "rating": 4.8,
+    "review_count": 377,
+    "image_path": "prdtImg/1385/7e92cbd8-fee7-4339-9d1e-54edcdb5d7a2.png",
+    "skin_type": [],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA210000759"
+  },
+  {
+    "id": "GA260338376",
+    "brand": "LABOTTACH",
+    "name": "LABOTTACH Dark Spot Care Patch 32P",
+    "category": "Acne & Blemish Treatments",
+    "parent_category": "Acne & Blemish",
+    "price_usd": 27.2,
+    "original_price_usd": 34.0,
+    "rating": 0.0,
+    "review_count": 0,
+    "image_path": "prdtImg/1086/bbbc67b2-eddc-4149-95ce-ece6bbdf42a6.jpg",
+    "skin_type": [],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA260338376"
+  },
+  {
+    "id": "GA250933696",
+    "brand": "Easyderm Beauty",
+    "name": "Easyderm Beauty Relief Patch 69EA",
+    "category": "Acne & Blemish Treatments",
+    "parent_category": "Acne & Blemish",
+    "price_usd": 11.51,
+    "original_price_usd": 15.0,
+    "rating": 4.6,
+    "review_count": 62,
+    "image_path": "prdtImg/1969/e94fa2b9-c591-4892-afec-bdc7d6d0e62e.png",
+    "skin_type": [],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250933696"
+  },
+  {
+    "id": "GA230317834",
+    "brand": "Troubless",
+    "name": "Troubless Invisible Spot Patch The Classic",
+    "category": "Acne & Blemish Treatments",
+    "parent_category": "Acne & Blemish",
+    "price_usd": 9.8,
+    "original_price_usd": 14.0,
+    "rating": 4.4,
+    "review_count": 74,
+    "image_path": "prdtImg/1424/fb084bab-8c73-4300-8ee1-bae7c38f412d.jpg",
+    "skin_type": [],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA230317834"
+  },
+  {
+    "id": "GA251033961",
+    "brand": "snow2plus",
+    "name": "snow2plus AC Magnesium Patch #Medium 12ea",
+    "category": "Acne & Blemish Treatments",
+    "parent_category": "Acne & Blemish",
+    "price_usd": 19.0,
+    "original_price_usd": 19.0,
+    "rating": 4.5,
+    "review_count": 4,
+    "image_path": "prdtImg/1700/de0f1a87-1f90-490d-83fe-e6b2a7af1197.jpg",
+    "skin_type": [],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA251033961"
+  },
+  {
+    "id": "GA250731909",
+    "brand": "BIOHEAL BOH",
+    "name": "BIOHEAL BOH Panthecell Repair Cica Micro Spot Patch 9P+3P",
+    "category": "Acne & Blemish Treatments",
+    "parent_category": "Acne & Blemish",
+    "price_usd": 19.0,
+    "original_price_usd": 19.0,
+    "rating": 4.5,
+    "review_count": 71,
+    "image_path": "prdtImg/1237/6626ff77-6a26-4491-a52b-01a736950503.jpg",
+    "skin_type": [],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250731909"
+  },
+  {
+    "id": "GA230719527",
+    "brand": "BRINGGREEN",
+    "name": "BRINGGREEN Tea Tree Cica S.O.S Spot Patch 75+25 Counts",
+    "category": "Acne & Blemish Treatments",
+    "parent_category": "Acne & Blemish",
+    "price_usd": 9.0,
+    "original_price_usd": 9.0,
+    "rating": 4.7,
+    "review_count": 812,
+    "image_path": "prdtImg/1997/8b2a2dbe-6b5c-4edb-9a47-ebc7a87defe8.jpg",
+    "skin_type": [],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA230719527"
+  },
+  {
+    "id": "GA210002271",
+    "brand": "Nexcare",
+    "name": "Nexcare Easy Pick Blemish Patch Care 63 Count",
+    "category": "Acne & Blemish Treatments",
+    "parent_category": "Acne & Blemish",
+    "price_usd": 9.0,
+    "original_price_usd": 12.0,
+    "rating": 4.8,
+    "review_count": 117,
+    "image_path": "mig/prdtImg/18571f1b1f00e9f19767f7358e52c9f9.jpg",
+    "skin_type": [],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA210002271"
+  },
+  {
+    "id": "GA260439163",
+    "brand": "COSRX",
+    "name": "COSRX Acne Pimple Master Patch 72ea",
+    "category": "Acne & Blemish Treatments",
+    "parent_category": "Acne & Blemish",
+    "price_usd": 8.52,
+    "original_price_usd": 11.0,
+    "rating": 0.0,
+    "review_count": 0,
+    "image_path": "prdtImg/1220/4d516f36-79a5-4a78-8f7b-dc4f1c6b3bd2.jpg",
+    "skin_type": [],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA260439163"
+  },
+  {
+    "id": "GA251034071",
+    "brand": "CAREPLUS",
+    "name": "CAREPLUS Glutathione Whitening Micro-Dot Patch Wide 4P (+Micro-Dot Patch 8P)",
+    "category": "Acne & Blemish Treatments",
+    "parent_category": "Acne & Blemish",
+    "price_usd": 16.09,
+    "original_price_usd": 21.0,
+    "rating": 4.5,
+    "review_count": 6,
+    "image_path": "prdtImg/1390/4b9bc7ee-3268-4f09-a2e0-340e1588ad39.jpg",
+    "skin_type": [],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA251034071"
+  },
+  {
+    "id": "GA210003340",
+    "brand": "COSRX",
+    "name": "COSRX Clear Fit Master Patch 18 Count",
+    "category": "Acne & Blemish Treatments",
+    "parent_category": "Acne & Blemish",
+    "price_usd": 4.0,
+    "original_price_usd": 5.0,
+    "rating": 4.7,
+    "review_count": 221,
+    "image_path": "prdtImg/1318/73996cfa-57b3-4d5b-8f25-e99bbeb4099e.jpg",
+    "skin_type": [],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA210003340"
+  },
+  {
+    "id": "GA251033960",
+    "brand": "snow2plus",
+    "name": "snow2plus AC Magnesium Patch #Large 6ea",
+    "category": "Acne & Blemish Treatments",
+    "parent_category": "Acne & Blemish",
+    "price_usd": 15.39,
+    "original_price_usd": 19.0,
+    "rating": 0.0,
+    "review_count": 0,
+    "image_path": "prdtImg/1171/c4607fe1-cadf-4c2c-bc3c-da2d67295d0b.jpg",
+    "skin_type": [],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA251033960"
+  },
+  {
+    "id": "GA210000525",
+    "brand": "COSRX",
+    "name": "COSRX Acne Pimple Master Patch 24 Count",
+    "category": "Acne & Blemish Treatments",
+    "parent_category": "Acne & Blemish",
+    "price_usd": 4.8,
+    "original_price_usd": 6.0,
+    "rating": 4.7,
+    "review_count": 2651,
+    "image_path": "prdtImg/1022/00c61b3d-21f2-4e7c-baa4-13ff954acaf5.jpg",
+    "skin_type": [],
+    "key_ingredients": [],
+    "formulation": [],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA210000525"
+  },
+  {
+    "id": "GA240724745",
+    "brand": "SKIN1004",
+    "name": "SKIN1004 Madagascar Centella Hyalu-Cica Water-Fit Sun Serum 100mL",
+    "category": "Sunscreen",
+    "parent_category": "Sun Care",
+    "price_usd": 20.8,
+    "original_price_usd": 26.0,
+    "rating": 4.9,
+    "review_count": 1378,
+    "image_path": "prdtImg/1618/86096204-4cd8-4127-9053-105eb0d290e8.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [
+      "Centella Asiatica Extract (Cica Care)",
+      "Hyaluronic acid"
+    ],
+    "formulation": [
+      "No White Cast"
+    ],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA240724745"
+  },
+  {
+    "id": "GA240624170",
+    "brand": "Purito Seoul",
+    "name": "Purito Seoul Daily Soft Touch Sunscreen SPF50+ PA++++ 60mL",
+    "category": "Sunscreen",
+    "parent_category": "Sun Care",
+    "price_usd": 17.6,
+    "original_price_usd": 22.0,
+    "rating": 4.9,
+    "review_count": 884,
+    "image_path": "prdtImg/1475/6eddd3a4-7a3b-4309-ae72-cb0cd216fa8c.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [
+      "Ceramide",
+      "Panthenol"
+    ],
+    "formulation": [
+      "No White Cast"
+    ],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA240624170"
+  },
+  {
+    "id": "GA251033893",
+    "brand": "Beauty of Joseon",
+    "name": "Beauty of Joseon Daily Tinted Fluid Sunscreen 50ml",
+    "category": "Sunscreen",
+    "parent_category": "Sun Care",
+    "price_usd": 15.0,
+    "original_price_usd": 20.0,
+    "rating": 4.3,
+    "review_count": 189,
+    "image_path": "prdtImg/1857/5af02579-d77b-4927-912e-6a583b8572f1.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [
+      "Artemisia Capillaris Extract",
+      "Zinc Oxide",
+      "Tocopherol (Vitamin E)"
+    ],
+    "formulation": [
+      "Mineral"
+    ],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA251033893"
+  },
+  {
+    "id": "GA230518751",
+    "brand": "Beauty of Joseon",
+    "name": "Beauty of Joseon Ginseng Moist Sun Serum 50mL",
+    "category": "Sunscreen",
+    "parent_category": "Sun Care",
+    "price_usd": 21.0,
+    "original_price_usd": 21.0,
+    "rating": 4.5,
+    "review_count": 341,
+    "image_path": "prdtImg/1149/f7ab510f-8770-499b-9738-4151d0fc266d.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [
+      "Niacinamide",
+      "Panax Ginseng Root Extract",
+      "Red Ginseng Extract"
+    ],
+    "formulation": [
+      "No White Cast"
+    ],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA230518751"
+  },
+  {
+    "id": "GA220816046",
+    "brand": "Beauty of Joseon",
+    "name": "Beauty of Joseon Relief Sun : Rice + Probiotics 50mL",
+    "category": "Sunscreen",
+    "parent_category": "Sun Care",
+    "price_usd": 14.99,
+    "original_price_usd": 18.0,
+    "rating": 4.8,
+    "review_count": 1302,
+    "image_path": "prdtImg/1866/e70e94eb-e597-489d-9ff9-dfe4f4c869c3.jpg",
+    "skin_type": [
+      "Combination&Normal"
+    ],
+    "key_ingredients": [
+      "Oryza Sativa (Rice) Extract"
+    ],
+    "formulation": [
+      "No White Cast"
+    ],
+    "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA220816046"
+  }
+]
