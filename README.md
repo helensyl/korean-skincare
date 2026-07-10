@@ -2,7 +2,7 @@
 
 **A Korean skincare routine builder powered by real Olive Young product data.**
 
-Olive Pick lets you browse 266+ K-beauty products, drag and drop them into your AM / PM / Weekly routine slots, and get instant ingredient-compatibility analysis — all in a clean, minimal interface.
+Olive Pick lets you browse 400+ K-beauty products, drag and drop them into your AM / PM / Weekly routine slots, and get instant ingredient-compatibility analysis — all in a clean, minimal interface.
 
 ---
 
@@ -17,7 +17,7 @@ Olive Pick lets you browse 266+ K-beauty products, drag and drop them into your 
 - Routine is **persisted to localStorage** via Zustand, so it survives page refreshes
 
 ### Product Catalog
-- **266+ Olive Young products** with brand, name, price, key ingredients, category, and product images
+- **400+ Olive Young products** with brand, name, key ingredients, category, and product images
 - **Search** by product name, brand, or ingredient
 - **Parent category filter** (Moisturizers, Cleansers, Acne & Blemish, Sun Care, …)
 - **Sub-category pills** that appear when a parent category is selected
@@ -51,7 +51,7 @@ Olive Pick lets you browse 266+ K-beauty products, drag and drop them into your 
 | Language | TypeScript |
 | Styling | Tailwind CSS v4 with custom `olive-*` and `cream-*` color palettes |
 | State | [Zustand](https://zustand-demo.pmnd.rs) with `persist` middleware |
-| Data | Static JSON (`src/data/products.json`) — 266 Olive Young products |
+| Data | Static JSON (`src/data/products.json`) — 400+ Olive Young products |
 | Images | Next.js `<Image>` with remote Olive Young CDN URLs |
 | Fonts | DM Sans, loaded via `next/font/google` |
 
@@ -83,7 +83,7 @@ src/
 ├── types/
 │   └── index.ts            # Shared TypeScript types
 └── data/
-    └── products.json       # 266 Olive Young products
+    └── products.json       # 400+ Olive Young products
 ```
 
 ---
@@ -101,4 +101,4 @@ Open [http://localhost:3000](http://localhost:3000).
 
 ## Data
 
-Product data was sourced from [Olive Young](https://www.oliveyoung.com) and includes brand, product name, price (USD), category, key ingredients, formulation, skin type suitability, and product image paths.
+Product data was sourced from [Olive Young](https://www.oliveyoung.com) and includes brand, product name, category, key ingredients, formulation, skin type suitability, and product image paths.

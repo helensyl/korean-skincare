@@ -54,9 +54,11 @@ export default function ProductCard({ product }: Props) {
 
   // Simplified ingredient tags — always show something, always consistent
   const tags = product.key_ingredients.length > 0
-    ? product.key_ingredients
-        .slice(0, 2)
-        .map(ing => ing.length > 18 ? ing.split(' ').slice(0, 2).join(' ') : ing)
+    ? Array.from(new Set(
+        product.key_ingredients
+          .slice(0, 2)
+          .map(ing => ing.length > 18 ? ing.split(' ').slice(0, 2).join(' ') : ing)
+      ))
     : [product.category]
 
   return (
@@ -106,10 +108,6 @@ export default function ProductCard({ product }: Props) {
             </span>
           ))}
         </div>
-
-        <p className="text-sm font-semibold text-stone-800 mt-auto pt-2 shrink-0">
-          ${product.price_usd.toFixed(2)}
-        </p>
       </div>
 
       {/* Add button */}

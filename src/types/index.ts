@@ -4,8 +4,6 @@ export interface Product {
   name: string
   category: string
   parent_category: string
-  price_usd: number
-  original_price_usd: number
   rating: number
   review_count: number
   image_path: string
